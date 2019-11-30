@@ -7,3 +7,8 @@
 
 [ag](_ag_.md)<b style="color: #C71585;">itate</b>
 > vt. 搅动，摇动
+
+[prol](_prol_.md)ifer<b style="color: #C71585;">ate</b>
+> vt. 激增，(迅速)繁殖，扩散
+>
+> 这里还有另一个词根 [_fer_](_fer_.md) 哦

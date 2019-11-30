@@ -4,3 +4,6 @@
 
 [acu](_ac_.md)i<b style="color: #C71585;">men</b>
 > n. 敏锐，精明，聪明
+
+[al](_al_.md)i<b style="color: #C71585;">ment</b>
+> n. 食物，生活必需品

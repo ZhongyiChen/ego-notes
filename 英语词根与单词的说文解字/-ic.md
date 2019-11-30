@@ -5,7 +5,12 @@
 [agr](_agr_.md)onom<b style="color: #C71585;">ic</b>
 > adj. 农艺学的，农事的
 >
-> 在这里，-nomic = [-nomy](-nomy.md) + -ic
+> -nomic = [-nomy](-nomy.md) + -ic
 
 [techn](_techn_.md)<b style="color: #C71585;">ic</b>
 > n. 手法，技术
+
+[am](_am_.md)<b style="color: #C71585;">ic</b>able
+> adj. 友好的，友善的，温和的
+>
+> -icable = -ic + [-able](-able.md)

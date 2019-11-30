@@ -4,3 +4,6 @@
 
 <b style="color: #C71585;">ex</b>[act](_act_.md)
 > adj. 确切的，精确的
+
+<b style="color: #C71585;">ex</b>[alt](_alt_.md)
+> vt. 提高，提升，赞扬，歌颂

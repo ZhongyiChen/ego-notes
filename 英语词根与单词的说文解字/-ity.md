@@ -12,3 +12,11 @@
 
 [acu](_ac_.md)<b style="color: #C71585;">ity</b>
 > n. 尖锐，(疾病的)剧烈，(视力、才智等的)敏锐
+
+[am](_am_.md)iab<b style="color: #C71585;">ility</b>
+> n. 可爱，和蔼可亲，娇美
+>
+> 这里，-ility = [-ile](-ile.md) + -ity
+
+[am](_am_.md)<b style="color: #C71585;">ity</b>
+> n. 和睦，友好关系

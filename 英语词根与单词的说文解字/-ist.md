@@ -8,4 +8,9 @@
 [agr](_agr_.md)i[cult](_cult_.md)ur<b style="color: #C71585;">ist</b>
 > n. 农业家，农学家
 >
-> 在这里，-urist = [-ure](-ure.md) + -ist
+> -urist = [-ure](-ure.md) + -ist
+
+[am](_am_.md)or<b style="color: #C71585;">ist</b>
+> n. 多情的人，好色之徒
+>
+> -orist = [-our](-our.md) + -ist

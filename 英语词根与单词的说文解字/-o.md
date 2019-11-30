@@ -1,0 +1,4 @@
+# -o = person, thing or status that is connected with ~; term about music
+
+[alt](_alt_.md)<b style="color: #C71585;">o</b>
+> n. 女低音，男声最高音，中音部
