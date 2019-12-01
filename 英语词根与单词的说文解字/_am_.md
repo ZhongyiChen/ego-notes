@@ -16,8 +16,10 @@
 <b style="color: #20B2AA;">am</b>i[able](-able.md)
 > adj. 好脾气的，和蔼的，亲切友好的
 
-<b style="color: #20B2AA;">am</b>iab[ility](-ity.md)
+<b style="color: #20B2AA;">am</b>i[ability](-ity.md)
 > n. 可爱，和蔼可亲，娇美
+>
+> -ability = -able + -ile + -ity
 
 <b style="color: #20B2AA;">am</b>icable
 > adj. 友好的，友善的，温和的

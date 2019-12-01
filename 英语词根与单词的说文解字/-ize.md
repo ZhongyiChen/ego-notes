@@ -4,3 +4,10 @@
 
 [act](_act_.md)ual<b style="color: #C71585;">ize</b>
 > vt. 实现，实行
+>
+> 另看词缀 [-al](-al.md)
+
+[anim](_anim_.md)al<b style="color: #C71585;">ize</b>
+> vt. 使动物化
+>
+> 另看词缀 [-al](-al.md)

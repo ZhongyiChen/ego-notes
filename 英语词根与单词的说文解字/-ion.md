@@ -1,6 +1,6 @@
 # -ion = the act or process of ~ing/ the result of ~ing/ the condition of being ~ed/ a thing or process that ~s
 
-*由于拉丁构词规律的影响，-ion 有 -ation、-ition、ution 等异体，它们的用法与意义和 -ion 并无区别。*
+*由于拉丁构词规律的影响，-ion 有 -ation(= [-ate](-ate.md) + -ion)、-ition(= [-ite](-ite.md) + -ion)、ution(= [-ute](-ute.md) + -ion) 等异体，它们的用法与意义和 -ion 并无区别。*
 
 [act](_act_.md)<b style="color: #C71585;">ion</b>
 > n. 行动
@@ -8,7 +8,7 @@
 [al](_al_.md)iment<b style="color: #C71585;">ation</b>
 > adj. 食物的，营养的
 >
-> 另可查看 [-ment](-ment.md)
+> 另看词缀 [-ment](-ment.md)
 
 [prol](_prol_.md)ifer<b style="color: #C71585;">ation</b>
 > n. 增殖，激增，扩散
@@ -18,4 +18,17 @@
 ex[alt](_alt_.md)<b style="color: #C71585;">ation</b>
 > n. 提拔，晋升，兴奋，得意洋洋
 >
-> 另可查看 [ex-](ex-.md)
+> 另看词缀 [ex-](ex-.md)
+
+[anim](_anim_.md)<b style="color: #C71585;">ation</b>
+> n. 兴奋，生气，活跃，动画片(的制作)
+
+ex[anim](_anim_.md)<b style="color: #C71585;">ation</b>
+> n. 昏迷
+>
+> 另看词缀 [ex-](ex-.md)
+
+in[anim](_anim_.md)<b style="color: #C71585;">ation</b>
+> n. 没有生命，不活动，不活泼
+>
+> 另看词缀 [in-](in-.1.md)

@@ -6,6 +6,15 @@
 
 <b style="color: #C71585;">in</b>[act](_act_.md)ion
 > n. 不活动，懒散
+>
+> 另看词缀 [-ion](-ion.md)
 
 <b style="color: #C71585;">in</b>[act](_act_.md)ive
 > adj. 不活动的，不活跃的，懒散的
+>
+> 另看词缀 [-ive](-ive.md)
+
+<b style="color: #C71585;">in</b>[anim](_anim_.md)ate
+> adj. 无生命的，无生气的
+>
+> 另看词缀 [-ate](-ate.md)

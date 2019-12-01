@@ -8,4 +8,4 @@
 en[am](_am_.md)<b style="color: #C71585;">or</b>
 > vt. 使倾心，使迷恋
 >
-> 另看 [en-](en-.md)
+> 另看词缀 [en-](en-.md)

@@ -6,3 +6,8 @@
 
 <b style="color: #C71585;">re</b>[act](_act_.md)
 > vi. 回应，反应，起化学反应，发生物理反应
+
+<b style="color: #C71585;">re</b>[anim](_anim_.md)ate
+> vt. 使重新充满力量(勇气)，使复活，使恢复生气
+>
+> 另看词缀 [-ate](-ate.md)

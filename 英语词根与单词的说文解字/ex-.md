@@ -7,3 +7,8 @@
 
 <b style="color: #C71585;">ex</b>[alt](_alt_.md)
 > vt. 提高，提升，赞扬，歌颂
+
+<b style="color: #C71585;">ex</b>[anim](_anim_.md)ate
+> adj. 已死的，缺乏生气的
+>
+> 另看词缀 [-ate](-ate.md)
