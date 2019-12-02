@@ -1,1 +1,1 @@
-# contra- = against/ opposite
+# contra- [L] = against/ opposite

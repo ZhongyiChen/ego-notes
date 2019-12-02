@@ -1,4 +1,4 @@
-# -able(-ible) = that can be ~ed/ able to be ~ed
+# -able(-ible) [F, L] = that can be ~ed/ able to be ~ed
 
 *-able 拥有异体 -ible 。*
 

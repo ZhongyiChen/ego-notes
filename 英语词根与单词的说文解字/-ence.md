@@ -1,4 +1,4 @@
-# -ence(-ency) = the act or fact of ~ing/ the quality or condition of ~ing
+# -ence(-ency) [F, L] = the act or fact of ~ing/ the quality or condition of ~ing
 
 *以 -ence 或 -ency 结尾的名词，往往有与之对应的以 [-ent](-ent.md) 结尾的形容词。*
 

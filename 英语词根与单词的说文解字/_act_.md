@@ -1,4 +1,4 @@
-# _act_ = to do/ to act/ to drive
+# _act_ [L] = to do/ to act/ to drive
 
 <b style="color: #20B2AA;">act</b>[ing](-ing.md)
 > adj. 代理的，临时的；
@@ -53,7 +53,7 @@
 [ex](ex-.md)<b style="color: #20B2AA;">act</b>
 > adj. 确切的，精确的
 
-ex<b style="color: #20B2AA;">act</b>[itude](-itude.md)
+ex<b style="color: #20B2AA;">act</b>i[tude](-tude.md)
 > n. 正确性，精密度，准度
 
 [inter](inter-.md)<b style="color: #20B2AA;">act</b>

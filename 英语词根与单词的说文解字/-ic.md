@@ -1,6 +1,6 @@
-# -ic = of ~/ having the nature of ~/ being ~/ made up of ~/ made or caused by ~/ like ~; an art or system of thought/ a person connected with ~
+# -ic [F, L, GK] = of ~/ having the nature of ~/ being ~/ made up of ~/ made or caused by ~/ like ~; an art or system of thought/ a person connected with ~
 
-*';' 号前的内容主要是 -ic 充当派生后缀时的意思。';' 号后的内容则主要是 -ic 充当原生后缀时的意思，表示 艺术、学术、与...有关的人 等意思。当 -ic 充当名词后缀时，对应的形容词往往由 -ical 结尾。*
+*';' 号前的内容主要是 -ic 充当派生后缀时的意思。';' 号后的内容则主要是 -ic 充当原生后缀时的意思，表示 艺术、学术、与...有关的人 等意思。当 -ic 充当名词后缀时，对应的形容词往往由 -ical 结尾。有些名词与 -ic 缀合成形容词过程，词尾变化较大(一般以 -atic、-itic、-etic 的形式出现)，应特别予以注意。*
 
 [agr](_agr_.md)onom<b style="color: #C71585;">ic</b>
 > adj. 农艺学的，农事的

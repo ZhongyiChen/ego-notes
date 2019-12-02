@@ -1,0 +1,6 @@
+# per- [L] = through/ throughout/ thoroughly/ to destruction
+
+*拉丁介词 per ，词意为 for each (每)，例如 percent；法语介词 per ，词意为 for 或 by (由、因)，例如 perchance。但它们跟本文词缀 per- 的意思并无关联，千万别搞错。*
+
+<b style="color: #C71585;">per</b>[enn](_ann_.md)i[al](-al.md)
+> adj. 长期存在的，持久的，长久的，常年的，反复出现的

@@ -1,4 +1,4 @@
-# -ish = like ~/ of ~/ tending to ~/ about or slightly past ~; somewhat ~
+# -ish [ME] = like ~/ of ~/ tending to ~/ about or slightly past ~; somewhat ~
 
 *';' 号前的内容表示 -ish 作为名词派生后缀的意思。';' 号后的内容表示 -ish 作为形容词派生后缀的意思。*
 

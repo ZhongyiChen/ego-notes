@@ -1,4 +1,4 @@
-# -ion = the act or process of ~ing/ the result of ~ing/ the condition of being ~ed/ a thing or process that ~s
+# -ion [L] = the act or process of ~ing/ the result of ~ing/ the condition of being ~ed/ a thing or process that ~s
 
 *由于拉丁构词规律的影响，-ion 有 -ation(= [-ate](-ate.md) + -ion)、-ition(= [-ite](-ite.md) + -ion)、ution(= [-ute](-ute.md) + -ion) 等异体，它们的用法与意义和 -ion 并无区别。*
 
@@ -32,3 +32,8 @@ in[anim](_anim_.md)<b style="color: #C71585;">ation</b>
 > n. 没有生命，不活动，不活泼
 >
 > 另看词缀 [in-](in-.1.md)
+
+super<b style="color: #20B2AA;">ann</b>u<b style="color: #C71585;">ation</b>
+> n. 领养老金退休，退休金
+>
+> 另看词缀 [super-](super-.md)

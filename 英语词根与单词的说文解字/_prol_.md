@@ -1,4 +1,4 @@
-# _prol_ = offspring/ child
+# _prol_ [L] = offspring/ child
 
 <b style="color: #20B2AA;">prol</b>ific
 > adj. (艺术家、作家等)多产的，创作丰富的
@@ -13,14 +13,14 @@
 <b style="color: #20B2AA;">prol</b>ifer[ate](-ate.md)
 > vt. 激增，(迅速)繁殖，扩散
 >
-> 这里还有另一个词根 [_fer_](_fer_.md) 哦
+> 另看词根 [_fer_](_fer_.md)
 
 <b style="color: #20B2AA;">prol</b>ifer[ation](-ion.md)
 > n. 增殖，激增，扩散
 >
-> 这里还有另一个词根 [_fer_](_fer_.md) 哦
+> 另看词根 [_fer_](_fer_.md)
 
 <b style="color: #20B2AA;">prol</b>ifer[ous](-ous.md)
 > adj. 繁殖的，多育的
 >
-> 这里还有另一个词根 [_fer_](_fer_.md) 哦
+> 另看词根 [_fer_](_fer_.md)

@@ -1,4 +1,4 @@
-# -ity(-ty/-ety) = the condition, quality or fact of being ~
+# -ity(-ty/-ety) [F, L] = the condition, quality or fact of being ~/ thing connected with ~
 
 *-ity 拥有异体 -ty 和 -ety 。*
 
@@ -31,3 +31,11 @@ un[anim](_anim_.md)<b style="color: #C71585;">ity</b>
 > n. 一致同意，全体一致
 >
 > 另看词根 [_un_](_un_.md)
+
+[ann](_ann_.md)u<b style="color: #C71585;">ity</b>
+> n. 年金，(每年的)养老金
+
+[ann](_ann_.md)ular<b style="color: #C71585;">ity</b>
+> n. 环状，轮状
+>
+> 另看词缀 [-ular(= -ar)](-ar.md)

@@ -1,4 +1,4 @@
-# en-(em-) = to put into/ to make
+# en-(em-) [OF] = to put into/ to make
 
 *en- 有一个异音异体 em- 。但 em- 只出现在唇辅音字母 b, p 与 m 之前。*
 

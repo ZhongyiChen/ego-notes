@@ -1,4 +1,4 @@
-# -id = with the quality of ~
+# -id [L] = with the quality of ~
 
 [ac](_ac_.md)<b style="color: #C71585;">id</b>
 > adj. 酸味的，酸的

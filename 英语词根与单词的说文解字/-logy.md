@@ -1,4 +1,4 @@
-# -logy = the doctrine, study or science of ~/ the speech or discussion of ~
+# -logy [GK] = the doctrine, study or science of ~/ the speech or discussion of ~
 
 *与 -logy 相对应的表示 "...学的" 与 "...者" 的后缀分别是 -logical 与 -logist。如果 -logy 被当作派生后缀，加在名词上，则构成科技术语。*
 

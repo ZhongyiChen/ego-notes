@@ -1,4 +1,4 @@
-# -estic = of ~
+# -estic [GK] = of ~
 
 [agr](_agr_.md)<b style="color: #C71585;">estic</b>
 > adj. 乡土的，粗野的

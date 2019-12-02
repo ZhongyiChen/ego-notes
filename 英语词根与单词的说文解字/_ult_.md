@@ -1,4 +1,4 @@
-# _ult_ = grown up
+# _ult_ [L] = grown up
 
 *有些人认为 _ult_ = [_ul_](_al_.md) + -t(过去分词形式结尾)。至于您怎么看，任君选择。*
 

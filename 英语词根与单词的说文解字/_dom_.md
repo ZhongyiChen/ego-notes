@@ -1,4 +1,4 @@
-# _dom_ = house
+# _dom_ [L] = house
 
 <b style="color: #20B2AA;">dom</b>[estic](-estic.md)
 > adj. 家的，驯养的，本国的

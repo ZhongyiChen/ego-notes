@@ -1,4 +1,4 @@
-# -ory = a place of ~ing/ a thing used for ~ing; ~ing/ characterized by ~ion/ tending or serving to ~
+# -ory [OF] = a place of ~ing/ a thing used for ~ing; ~ing/ characterized by ~ion/ tending or serving to ~
 
 *-ory 可作为原生后缀和派生后缀。';' 号前的内容表示 -ory 作为名词后缀的意思。';' 号后的内容表示 -ory 作为形容词后缀的意思。*
 

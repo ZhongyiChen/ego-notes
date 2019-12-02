@@ -1,1 +1,1 @@
-# _fer_ = to carry/ to bring/ to bear
+# _fer_ [L] = to carry/ to bring/ to bear

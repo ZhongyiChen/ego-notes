@@ -1,1 +1,1 @@
-# -esce = begin ~/ produce ~
+# -esce [L] = begin ~/ produce ~

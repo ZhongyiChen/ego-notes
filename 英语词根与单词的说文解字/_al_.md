@@ -1,4 +1,4 @@
-# _al_(_ol_/_ul_) = to nourish
+# _al_(_ol_/_ul_) [L] = to nourish
 
 <b style="color: #20B2AA;">al</b>i[ment](-ment.md)
 > n. 食物，生活必需品

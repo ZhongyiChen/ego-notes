@@ -1,4 +1,4 @@
-# trans-(tran-/tra-) = across/ beyond/ over
+# trans-(tran-/tra-) [L] = across/ beyond/ over
 
 *trans- 有两个异体 tran- 和 tra- 。其中，tran- 用在以 s 开头的词根前；tra- 出现在少数以 d, j, m, v 开头的词根前。*
 

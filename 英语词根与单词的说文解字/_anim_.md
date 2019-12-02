@@ -1,4 +1,4 @@
-# _anim_ = life/ mind/ spirit/ soul
+# _anim_ [L] = life/ mind/ spirit/ soul
 
 *可见，词根 _anim_ 表示的是与生命现象有关的概念。*
 
@@ -20,28 +20,20 @@
 [re](re-.md)<b style="color: #20B2AA;">anim</b>ate
 > vt. 使重新充满力量(勇气)，使复活，使恢复生气
 
-<b style="color: #20B2AA;">anim</b>at[ion](-ion.md)
+<b style="color: #20B2AA;">anim</b>[ation](-ion.md)
 > n. 兴奋，生气，活跃，动画片(的制作)
->
-> 可以整体看待 -ation(= -ion)
 
-ex<b style="color: #20B2AA;">anim</b>at[ion](-ion.md)
+ex<b style="color: #20B2AA;">anim</b>[ation](-ion.md)
 > n. 昏迷
->
-> 可以整体看待 -ation(= -ion)
 
-in<b style="color: #20B2AA;">anim</b>at[ion](-ion.md)
+in<b style="color: #20B2AA;">anim</b>[ation](-ion.md)
 > n. 没有生命，不活动，不活泼
->
-> 可以整体看待 -ation(= -ion)
 
 <b style="color: #20B2AA;">anim</b>al[ize](-ize.md)
 > vt. 使动物化
   
-<b style="color: #20B2AA;">anim</b>at[or](-or.md)
+<b style="color: #20B2AA;">anim</b>[ator](-or.md)
 > n. 动画片绘制者，赋予生气者，赋予生气的因素
->
-> 可以整体看待 -ator(= -or)
 
 <b style="color: #20B2AA;">anim</b>os[ity](-ity.md)
 > n. 敌意，仇恨，憎恶

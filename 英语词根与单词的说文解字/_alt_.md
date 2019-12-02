@@ -1,4 +1,4 @@
-# _alt = high/ to bring up
+# _alt [L] = high/ to bring up
 
 <b style="color: #20B2AA;">alt</b>[ar](-ar.md)
 > n. (教堂、庙宇的)圣坛，祭坛
@@ -12,7 +12,7 @@
 <b style="color: #20B2AA;">alt</b>[o](-o.md)
 > n. 女低音，男声最高音，中音部
 
-<b style="color: #20B2AA;">alt</b>[itude](-itude.md)
+<b style="color: #20B2AA;">alt</b>i[tude](-tude.md)
 > n. 高度，海拔
 
 [ex](ex-.md)<b style="color: #20B2AA;">alt</b>

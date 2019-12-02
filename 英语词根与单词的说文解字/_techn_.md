@@ -1,4 +1,4 @@
-# _techn_ = skill/ ability
+# _techn_ [GK] = skill/ ability
 
 <b style="color: #20B2AA;">techn</b>[ic](-ic.md)
 > n. 手法，技术

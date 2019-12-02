@@ -1,4 +1,4 @@
-# _bi_(_bio_) = life
+# _bi_(_bio_) [GK] = life
 
 *由于 _bi_ 通常和字母 o 连用，因此可将 _bio_ 看成 _bi_ 的异体。*
 

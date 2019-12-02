@@ -1,4 +1,4 @@
-# _agr_ = field
+# _agr_(_ager_/_agris_) [L] = field
 
 <b style="color: #20B2AA;">agr</b>i[cult](_cult_.md)[ure](-ure.md)
 > n. 农业，农艺，农学
@@ -15,8 +15,10 @@
 <b style="color: #20B2AA;">agr</b>onom[ic](-ic.md)
 > adj. 农艺学的，农事的
 
-<b style="color: #20B2AA;">agr</b>[arian](-arian.md)
+<b style="color: #20B2AA;">agr</b>ari[an](-an.1.md)
 > adj. 农业的，土地的
+>
+> -arian = [-ary](-ary.md) + [-an](-an.1.md)
 
 <b style="color: #20B2AA;">agr</b>arian[ism](-ism.md)
 > n. 田地均分法，平均地权论

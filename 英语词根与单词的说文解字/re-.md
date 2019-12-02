@@ -1,4 +1,4 @@
-# re-(red-) = back/ again/ against
+# re-(red-) [L] = back/ again/ against
 
 *re- 作为原生前缀时，其意思是 back/against。当 re- 用作派生前缀时，则主要表示 again。原生前缀有一个异体 red- ，它只与以元音字母或或 h 开头的拉丁词根相结合。*
 

@@ -1,4 +1,4 @@
-# _ag_ = to do/ to drive
+# _ag_ [L] = to do/ to drive
 
 *词根 _ag_ 跟 _act_ 其实是同源异形词根，因此它们的意思是一样的。*
 

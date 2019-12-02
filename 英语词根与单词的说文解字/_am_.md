@@ -1,4 +1,4 @@
-# _am_(_amat_) = to love
+# _am_(_amat_) [L] = to love
 
 <b style="color: #20B2AA;">amat</b>eur
 > n. 业余爱好者

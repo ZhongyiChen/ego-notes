@@ -1,2 +1,2 @@
-# -que = of ~/ thing about ~
+# -que [GK] = of ~/ thing about ~
 

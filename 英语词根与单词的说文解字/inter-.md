@@ -1,4 +1,4 @@
-# inter-(intel-) = between/ among/ mutual/ mutually
+# inter-(intel-) [L] = between/ among/ mutual/ mutually
 
 *inter- 既可作为派生词缀与单词进行结合，也可作原生词缀与词根进行结合。inter- 的异体 intel- 只能作为原生词缀，出现在 l 之前。*
 

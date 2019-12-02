@@ -1,4 +1,4 @@
-# _cult_ = to till
+# _cult_ [L] = to till
 
 *在拉丁语中，_cult_ 的原语包含了古代社会的三种基本社会活动：居住、耕作、敬神。因此，_cult_ 也就有着 inhabit、till、worship 这三种意思，但以 till 为主。*
 

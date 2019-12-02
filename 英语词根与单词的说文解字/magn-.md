@@ -1,4 +1,4 @@
-# magn- = large
+# magn- [L] = large
 
 <b style="color: #C71585;">magn</b>[anim](_anim_.md)ity
 > n. 宽宏大量，雅量

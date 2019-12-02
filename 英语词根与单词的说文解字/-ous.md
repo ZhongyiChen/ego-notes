@@ -1,4 +1,4 @@
-# -ous = having ~/ full of ~/ characterized by ~/ having the nature of ~/ having to do with ~/ of ~/ like ~/ practising ~/
+# -ous [L] = having ~/ full of ~/ characterized by ~/ having the nature of ~/ having to do with ~/ of ~/ like ~/ practising ~/
 
 *务必注意：由于拉丁构词的影响，-ous 在与词根结合时，有 -eous、-ious、-uous、-itous、-tious、-ulous 等异体。*
 

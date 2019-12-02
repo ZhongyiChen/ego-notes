@@ -1,4 +1,4 @@
-# -ism = the doctrine, theory or system of ~/ a disease caused by ~/ the quality or condition of being ~/ instance of being ~
+# -ism [GK] = the doctrine, theory or system of ~/ a disease caused by ~/ the quality or condition of being ~/ instance of being ~
 
 *-ism 一般就表示某类主义，而 [-ist](-ist.md) 则表示对应的某类人*
 

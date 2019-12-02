@@ -1,4 +1,4 @@
-# -ure = the act of fact of ~ing/ the condition of being ~ed/ the result of being ~ed/ sth that ~s or is ~ed
+# -ure [F, L] = the act of fact of ~ing/ the condition of being ~ed/ the result of being ~ed/ sth that ~s or is ~ed
 
 *-ure 的异体有 -ature、-ture、-iture 等。*
 
