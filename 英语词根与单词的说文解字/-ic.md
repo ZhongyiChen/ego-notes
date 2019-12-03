@@ -14,3 +14,13 @@
 > adj. 友好的，友善的，温和的
 >
 > -icable = -ic + [-able](-able.md)
+
+phil[anthrop](_anthrop_.md)<b style="color: #C71585;">ic</b>
+> adj. 博爱的，慈善的
+>
+> 另看词缀 [phil-](phil-.md)
+
+mis[anthrop](_anthrop_.md)<b style="color: #C71585;">ic</b>
+> adj. 厌世的
+>
+> 另看词缀 [mis-](mis-.md)

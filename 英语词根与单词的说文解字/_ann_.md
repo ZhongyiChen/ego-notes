@@ -85,5 +85,3 @@ trimill<b style="color: #20B2AA;">enn</b>ium
 
 super<b style="color: #20B2AA;">ann</b>u[ation](-ion.md)
 > n. 领养老金退休，退休金
->
-> -ation = -ion

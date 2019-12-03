@@ -14,3 +14,18 @@
 > n. 多情的人，好色之徒
 >
 > -orist = [-our](-our.md) + -ist
+
+[anthrop](_anthrop_.md)olog<b style="color: #C71585;">ist</b>
+> n. 人类学家
+>
+> -logist = [-logy](-logy.md) + -ist
+
+phil[anthrop](_anthrop_.md)<b style="color: #C71585;">ist</b>
+> n. 慈善家
+>
+> 另看词缀 [phil-](phil-.md)
+
+mis[anthrop](_anthrop_.md)<b style="color: #C71585;">ist</b>
+> n. 厌世者
+>
+> 另看词缀 [mis-](mis-.md)

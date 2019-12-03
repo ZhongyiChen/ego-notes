@@ -13,3 +13,6 @@
 
 [techn](_techn_.md)o<b style="color: #C71585;">logy</b>
 > n. 科技(总称)，工艺，应用科学
+
+[anthrop](_anthrop_.md)o<b style="color: #C71585;">logy</b>
+> n. 人类学
