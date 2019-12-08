@@ -1,7 +1,9 @@
 # _agr_(_ager_/_agris_) [L] = field
 
-<b style="color: #20B2AA;">agr</b>i[cult](_cult_.md)[ure](-ure.md)
+<b style="color: #20B2AA;">agr</b>icult[ure](-ure.md)
 > n. 农业，农艺，农学
+>
+> 另看词根 [_cult_](_cult_.md)
 
 <b style="color: #20B2AA;">agr</b>icultur[al](-al.md)
 > adj. 农业的，农学的
@@ -26,7 +28,7 @@
 <b style="color: #20B2AA;">agr</b>imotor
 > n. 农用拖拉机
 >
-> 单词 motor 是 发动机、马达、汽车 的意思。
+> 单词 motor 是 发动机、马达、汽车 的意思
 
 <b style="color: #20B2AA;">agr</b>o[bio](_bi_.md)[logy](-logy.md)
 > n. 农业生物学，土壤生物学
@@ -36,12 +38,12 @@
 <b style="color: #20B2AA;">agr</b>ochemic[al](-al.md)
 > n. 农用化学品
 >
-> 单词 chemical 在这里是 化学药品 的意思。
+> 单词 chemical 在这里是 化学药品 的意思
 
 <b style="color: #20B2AA;">agr</b>o[techn](_techn_.md)i[que](-que.md)
 > n. 农业技术
 >
-> 单词 technique 是技术的意思。
+> 单词 technique 是技术的意思
 
 <b style="color: #20B2AA;">agr</b>o[logy](-logy.md)
 > n. 土壤学，农业土壤学

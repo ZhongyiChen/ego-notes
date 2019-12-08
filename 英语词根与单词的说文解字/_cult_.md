@@ -4,3 +4,6 @@
 
 [agr](_agr_.md)i<b style="color: #20B2AA;">cult</b>[ure](-ure.md)
 > n. 农业，农艺，农学
+
+[aqu](_aqu_.md)i<b style="color: #20B2AA;">cult</b>[ure](-ure.md)
+> n. 水产养殖

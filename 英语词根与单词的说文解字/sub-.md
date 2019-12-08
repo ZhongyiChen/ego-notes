@@ -4,3 +4,6 @@
 
 <b style="color: #C71585;">sub</b>[ag](_ag_.md)ent
 > n. 副代理人
+
+<b style="color: #C71585;">sub</b>[aqu](_aqu_.md)e[ous](-ous.md)
+> adj. 水中的，水下用的

@@ -24,3 +24,6 @@ mis[anthrop](_anthrop_.md)<b style="color: #C71585;">ic</b>
 > adj. 厌世的
 >
 > 另看词缀 [mis-](mis-.md)
+
+[aqu](_aqu_.md)<b style="color: #C71585;">atic</b>
+> adj. 水产的，水生的，水栖的，水中的

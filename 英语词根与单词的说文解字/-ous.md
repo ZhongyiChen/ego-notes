@@ -21,3 +21,13 @@ un[anim](_anim_.md)<b style="color: #C71585;">ous</b>
 > adj. 一致同意的，全体一致的，无异议的
 >
 > 另看词根 [_un_](_un_.md)
+
+sub[aqu](_aqu_.md)<b style="color: #C71585;">eous</b>
+> adj. 水中的，水下用的
+>
+> 另看词缀 [sub-](sub-.md)
+
+super[aqu](_aqu_.md)<b style="color: #C71585;">eous</b>
+> adj. 水上的
+>
+> 另看词缀 [super-](super-.md)
