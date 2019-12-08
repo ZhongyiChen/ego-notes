@@ -29,3 +29,8 @@ mis[anthrop](_anthrop_.md)<b style="color: #C71585;">ist</b>
 > n. 厌世者
 >
 > 另看词缀 [mis-](mis-.md)
+
+an[arch](_arch_.md)<b style="color: #C71585;">ist</b>
+> n. 无政府主义者
+>
+> 另看词缀 [an-](a-.2.md)

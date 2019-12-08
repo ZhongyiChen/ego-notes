@@ -11,3 +11,13 @@
 > n. 田地均分法，平均地权论
 >
 > 可查看词缀 [-arian](-arian.md) 的意思。
+
+an[arch](_arch_.md)<b style="color: #C71585;">ism</b>
+> n. 无政府主义
+>
+> 另看词缀 [an-](a-.2.md)
+
+mon[arch](_arch_.md)<b style="color: #C71585;">ism</b>
+> n. 君主主义，君主政体
+>
+> 另看词缀 [mon-](mon-.md)

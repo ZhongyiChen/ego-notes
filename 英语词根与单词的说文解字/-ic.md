@@ -27,3 +27,8 @@ mis[anthrop](_anthrop_.md)<b style="color: #C71585;">ic</b>
 
 [aqu](_aqu_.md)<b style="color: #C71585;">atic</b>
 > adj. 水产的，水生的，水栖的，水中的
+
+an[arch](_arch_.md)<b style="color: #C71585;">ic</b>
+> adj. 无政府的
+>
+> 另看词缀 [an-](a-.2.md)
