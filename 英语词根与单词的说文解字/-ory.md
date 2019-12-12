@@ -4,3 +4,6 @@
 
 [amat](_am_.md)<b style="color: #C71585;">ory</b>
 > adj. 恋爱的，爱情的，色情的
+
+[arm](_arm_.md)<b style="color: #C71585;">ory</b>
+> n. 军械，兵工厂，军械库

@@ -5,4 +5,9 @@
 <b style="color: #C71585;">dis</b>[anim](_anim_.md)ate
 > vt. 使灰心，使失去生命
 >
+> 单词 animate —— vt. 赋予...以生命，使有生命
+>
 > 另看词缀 [-ate](-ate.md)
+
+<b style="color: #C71585;">dis</b>[arm](_arm_.md)
+> vi. 裁军

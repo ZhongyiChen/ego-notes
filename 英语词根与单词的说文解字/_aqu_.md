@@ -26,14 +26,14 @@
 <b style="color: #20B2AA;">aqua</b>marine
 > n. 绿玉，碧绿色
 >
-> 单词 marine 是大海的意思
+> 单词 marine —— n. 大海
 
 <b style="color: #20B2AA;">aqua</b>lung
 > n. 水肺，水中呼吸器
 >
-> 单词 lung 是肺的意思
+> 单词 lung —— n. 肺
 
 <b style="color: #20B2AA;">aqua</b>show
 > n. 水上技艺表演
 >
-> 单词 show 是表演的意思
+> 单词 show —— n. 表演

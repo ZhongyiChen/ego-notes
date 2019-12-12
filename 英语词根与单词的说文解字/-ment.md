@@ -7,3 +7,13 @@
 
 [al](_al_.md)i<b style="color: #C71585;">ment</b>
 > n. 食物，生活必需品
+
+[arm](_arm_.md)a<b style="color: #C71585;">ment</b>
+> n. 武器装备，军事力量
+
+dis[arm](_arm_.md)a<b style="color: #C71585;">ment</b>
+> n. 解除武装，裁军
+>
+> 单词 armament —— n. 武器装备，军事力量
+>
+> 另看词缀 [dis-](dis-.md)

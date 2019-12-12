@@ -14,3 +14,6 @@
 
 <b style="color: #C71585;">ad</b>[ult](_ult_.md)
 > adj. 成熟的，成年的，成人的
+
+<b style="color: #C71585;">al</b>[arm](_arm_.md)
+> vt. 警告

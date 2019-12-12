@@ -34,3 +34,10 @@ an[arch](_arch_.md)<b style="color: #C71585;">ist</b>
 > n. 无政府主义者
 >
 > 另看词缀 [an-](a-.2.md)
+
+al[arm](_arm_.md)<b style="color: #C71585;">ist</b>
+> n. 危言耸听者，忧虑者
+>
+> 单词 alarm —— vt. 警告
+>
+> 另看词缀 [al-](ad-.md)

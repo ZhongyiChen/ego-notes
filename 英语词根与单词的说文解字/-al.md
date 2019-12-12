@@ -15,7 +15,7 @@ chemic<b style="color: #C71585;">al</b>
 >
 > adj. 化学的
 >
-> 单词 chemic 的名词意思包括 化学家、化学 ，形容词意思则是 化学的 。
+> 单词 chemic —— n. 化学家，化学 adj. 化学的
 
 [anim](_anim_.md)<b style="color: #C71585;">al</b>
 > n. 动物，除人以外的任何动物
@@ -32,3 +32,8 @@ per[enn](_ann_.md)i<b style="color: #C71585;">al</b>
 > n. 编年史
 >
 > -s 是派生后缀，表复数
+
+[arm](_arm_.md)ori<b style="color: #C71585;">al</b>
+> adj. 纹章的，徽章的，盾徽的
+>
+> 单词 armor —— n. 装甲

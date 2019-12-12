@@ -17,7 +17,7 @@
 <b style="color: #20B2AA;">ag</b>[end](-end.md)a
 > n. 议事日程，(会议的)议程表
 >
-> `-a` 在这里表示复数
+> 另看词缀 [-a](-a.md)
 
 <b style="color: #20B2AA;">ag</b>[ile](-ile.md)
 > adj. (动作)敏捷的，灵活的

@@ -5,12 +5,12 @@
 [act](_act_.md)ual<b style="color: #C71585;">ism</b>
 > n. 现实论，现实主义
 >
-> 可查看词缀 [-al](-al.md) 的意思。
+> 可查看词缀 [-al](-al.md) 的意思
 
 [agr](_agr_.md)arian<b style="color: #C71585;">ism</b>
 > n. 田地均分法，平均地权论
 >
-> 可查看词缀 [-arian](-arian.md) 的意思。
+> 可查看词缀 [-arian](-arian.md) 的意思
 
 an[arch](_arch_.md)<b style="color: #C71585;">ism</b>
 > n. 无政府主义
@@ -21,3 +21,10 @@ mon[arch](_arch_.md)<b style="color: #C71585;">ism</b>
 > n. 君主主义，君主政体
 >
 > 另看词缀 [mon-](mon-.md)
+
+al[arm](_arm_.md)<b style="color: #C71585;">ism</b>
+> n. 惊扰旁人，大惊小怪
+>
+> 单词 alarm —— vt. 警告
+>
+> 另看词缀 [al-](ad-.md)

@@ -9,3 +9,6 @@ en[am](_am_.md)<b style="color: #C71585;">or</b>
 > vt. 使倾心，使迷恋
 >
 > 另看词缀 [en-](en-.md)
+
+[arm](_arm_.md)<b style="color: #C71585;">our</b>
+> n. 盔甲，武装，装甲部队

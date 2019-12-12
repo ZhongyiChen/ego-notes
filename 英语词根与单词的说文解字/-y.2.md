@@ -21,3 +21,6 @@ mon[arch](_arch_.md)<b style="color: #C71585;">y</b>
 > n. 君主统治，君主制度
 >
 > 另看词缀 [mon-](mon-.md)
+
+[arm](_arm_.md)<b style="color: #C71585;">y</b>
+> n. 军队，陆军
