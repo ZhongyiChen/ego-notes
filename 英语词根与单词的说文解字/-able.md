@@ -11,4 +11,7 @@
 [am](_am_.md)ic<b style="color: #C71585;">able</b>
 > adj. 友好的，友善的，温和的
 >
-> -icable = [-ic](-ic.md) + -able
+> 另看词缀 [-ic](-ic.md)
+
+[aud](_aud_.md)<b style="color: #C71585;">ible</b>
+> adj. 听得见的

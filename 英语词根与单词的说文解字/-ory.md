@@ -7,3 +7,6 @@
 
 [arm](_arm_.md)<b style="color: #C71585;">ory</b>
 > n. 军械，兵工厂，军械库
+
+[audit](_aud_.md)<b style="color: #C71585;">ory</b>
+> adj. 听觉的，听觉器官的

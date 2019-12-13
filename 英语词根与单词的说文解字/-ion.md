@@ -37,3 +37,6 @@ super<b style="color: #20B2AA;">ann</b>u<b style="color: #C71585;">ation</b>
 > n. 领养老金退休，退休金
 >
 > 另看词缀 [super-](super-.md)
+
+[audit](_aud_.md)<b style="color: #C71585;">ion</b>
+> n. 试演，试唱，试音

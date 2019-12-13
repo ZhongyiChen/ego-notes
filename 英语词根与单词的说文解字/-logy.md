@@ -16,3 +16,6 @@
 
 [anthrop](_anthrop_.md)o<b style="color: #C71585;">logy</b>
 > n. 人类学
+
+[audi](_aud_.md)o<b style="color: #C71585;">logy</b>
+> n. 听力学，听觉学

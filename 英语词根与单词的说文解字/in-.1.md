@@ -18,3 +18,8 @@
 > adj. 无生命的，无生气的
 >
 > 另看词缀 [-ate](-ate.md)
+
+<b style="color: #C71585;">in</b>[aud](_aud_.md)ible
+> adj. 听不见的
+>
+> 另看词缀 [ible](-able.md)

@@ -37,3 +37,12 @@ per[enn](_ann_.md)i<b style="color: #C71585;">al</b>
 > adj. 纹章的，徽章的，盾徽的
 >
 > 单词 armor —— n. 装甲
+>
+> 另看词缀 [-or](-or.md)
+
+[audit](_aud_.md)ori<b style="color: #C71585;">al</b>
+> adj. 查账的，稽查的
+>
+> 单词 auditor —— n. 审计员，稽核员
+>
+> 另看词缀 [-or](-or.md)

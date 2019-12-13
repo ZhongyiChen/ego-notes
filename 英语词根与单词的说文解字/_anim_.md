@@ -7,6 +7,11 @@
 
 <b style="color: #20B2AA;">anim</b>[ate](-ate.md)
 > vt. 赋予...以生命，使有生命
+  
+<b style="color: #20B2AA;">anim</b>at[or](-or.md)
+> n. 动画片绘制者，赋予生气者，赋予生气的因素
+>
+> -ator = [-ate](-ate.md) + -or
 
 [dis](dis-.md)<b style="color: #20B2AA;">anim</b>ate
 > vt. 使灰心，使失去生命
@@ -31,9 +36,6 @@ in<b style="color: #20B2AA;">anim</b>[ation](-ion.md)
 
 <b style="color: #20B2AA;">anim</b>al[ize](-ize.md)
 > vt. 使动物化
-  
-<b style="color: #20B2AA;">anim</b>[ator](-or.md)
-> n. 动画片绘制者，赋予生气者，赋予生气的因素
 
 <b style="color: #20B2AA;">anim</b>os[ity](-ity.md)
 > n. 敌意，仇恨，憎恶

@@ -4,3 +4,6 @@
 
 [ag](_ag_.md)<b style="color: #C71585;">ency</b>
 > n. 经销处，代理行
+
+[audi](_aud_.md)<b style="color: #C71585;">ence</b>
+> n. 观众，听众，读者
