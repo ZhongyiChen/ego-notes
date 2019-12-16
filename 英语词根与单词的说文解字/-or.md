@@ -24,3 +24,6 @@
 > 单词 aviat(aviate) —— vi. 飞行，驾驶飞机
 >
 > -ator = [-ate](-ate.md) + -or
+
+[auth](_aug_.md)<b style="color: #C71585;">or</b>
+> n. 发起人，创始者，著作家，作家

@@ -17,3 +17,8 @@ dis[arm](_arm_.md)a<b style="color: #C71585;">ment</b>
 > 单词 armament —— n. 武器装备，军事力量
 >
 > 另看词缀 [dis-](dis-.md)
+
+[aug](_aug_.md)<b style="color: #C71585;">ment</b>
+> n. 增加，提高，扩大
+>
+> v. 增加，扩大，增大

@@ -1,4 +1,4 @@
-# -ize(-ise) [F, L, GK] = to make ~/ to become ~/ to engage in or use ~/ to treat in the way of ~/ to act like ~
+# -ize(-ise) [F, L, GK] = to make ~/ to become ~/ to engage in or use ~/ to treat in the way of ~/ to act like ~/ to cause to have
 
 *-ize 拥有音变异体 -ise 。*
 
@@ -11,3 +11,10 @@
 > vt. 使动物化
 >
 > 另看词缀 [-al](-al.md)
+
+[auth](_aug_.md)or<b style="color: #C71585;">ize</b>
+> v. 授权
+>
+> 单词 author —— n. 发起人，创始者，著作家，作家
+>
+> 另看词缀 [-or](-or.md)

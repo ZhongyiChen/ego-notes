@@ -52,3 +52,10 @@ un[anim](_anim_.md)<b style="color: #C71585;">ity</b>
 > n. 可听到，能听度
 >
 > -ibility = [-ible](-able.md) + -ity
+
+[auth](_aug_.md)or<b style="color: #C71585;">ity</b>
+> n. 权力，权威，当权者
+>
+> 单词 author —— n. 发起人，创始者，著作家，作家
+>
+> 另看词缀 [-or](-or.md)

@@ -43,3 +43,8 @@ super<b style="color: #20B2AA;">ann</b>u<b style="color: #C71585;">ation</b>
 
 [avi](_avi_.md)<b style="color: #C71585;">ation</b>
 > n. 航空，航空学
+
+[auct](_aug_.md)<b style="color: #C71585;">ion</b>
+> n. 拍卖
+>
+> v. 拍卖

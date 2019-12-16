@@ -46,3 +46,12 @@ per[enn](_ann_.md)i<b style="color: #C71585;">al</b>
 > 单词 auditor —— n. 审计员，稽核员
 >
 > 另看词缀 [-or](-or.md)
+
+[auct](_aug_.md)ori<b style="color: #C71585;">al</b>
+> adj. 作者的
+>
+> 单词 auctor —— n.	卖主，拍卖人
+>
+> 在这里，auctor = author
+>
+> 另看词缀 [-or](-or.md)

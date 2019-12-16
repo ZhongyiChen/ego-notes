@@ -4,3 +4,10 @@
 
 [arm](_arm_.md)<b style="color: #C71585;">less</b>
 > adj. 无臂的，无扶手的，无武器的
+
+[auth](_aug_.md)or<b style="color: #C71585;">less</b>
+> adj. 作者不明的，隐名的
+>
+> 单词 author —— n. 发起人，创始者，著作家，作家
+>
+> 另看词缀 [-or](-or.md)
