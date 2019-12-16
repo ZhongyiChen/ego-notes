@@ -9,3 +9,6 @@
 
 [ann](_ann_.md)i[vers](_vert_.md)<b style="color: #C71585;">ary</b>
 > n. 周年纪念，周年纪念日
+
+[avi](_avi_.md)<b style="color: #C71585;">ary</b>
+> n. 大鸟笼，鸟舍，鸟类饲养场

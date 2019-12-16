@@ -25,6 +25,8 @@
 <b style="color: #20B2AA;">ag</b>il[ity](-ity.md)
 > n. (动作)敏捷，灵活
 
-<b style="color: #20B2AA;">ag</b>[itate](-ate.md)
+<b style="color: #20B2AA;">ag</b>it[ate](-ate.md)
 > vt. 搅动，摇动
+>
+> -itate = [-ite](-ite.md) + -ate
 

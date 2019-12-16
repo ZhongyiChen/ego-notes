@@ -7,3 +7,6 @@
 
 [aqu](_aqu_.md)i<b style="color: #20B2AA;">cult</b>[ure](-ure.md)
 > n. 水产养殖
+
+[avi](_avi_.md)<b style="color: #20B2AA;">cult</b>[ure](-ure.md)
+> n. 养鸟，鸟类饲养

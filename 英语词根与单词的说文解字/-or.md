@@ -17,3 +17,10 @@
 
 [audit](_aud_.md)<b style="color: #C71585;">or</b>
 > n. 审计员，稽核员
+
+[avi](_avi_.md)at<b style="color: #C71585;">or</b>
+> n. (男)飞行员
+>
+> 单词 aviat(aviate) —— vi. 飞行，驾驶飞机
+>
+> -ator = [-ate](-ate.md) + -or

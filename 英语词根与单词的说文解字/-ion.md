@@ -40,3 +40,6 @@ super<b style="color: #20B2AA;">ann</b>u<b style="color: #C71585;">ation</b>
 
 [audit](_aud_.md)<b style="color: #C71585;">ion</b>
 > n. 试演，试唱，试音
+
+[avi](_avi_.md)<b style="color: #C71585;">ation</b>
+> n. 航空，航空学
