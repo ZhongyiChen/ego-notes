@@ -4,3 +4,6 @@
 > n. 生产力，多产
 >
 > 其中 -ific = [-ify](-fy.md) + [-ic](-ic.md)
+
+[priv](_priv_.md)<b style="color: #C71585;">acy</b>
+> n. 隐私，隐居，秘密

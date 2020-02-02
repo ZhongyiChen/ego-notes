@@ -6,3 +6,10 @@
 > n. 兵器制造者，军械修护员
 >
 > 单词 armor —— n. 装甲
+
+[priv](_priv_.md)ate<b style="color: #C71585;">er</b>
+> n. 武装民船，私掠船
+>
+> 单词 private —— n. adj. 私人的，秘密的，私立的，隐蔽的
+>
+> 另看词缀 [-ate](-ate.md)

@@ -1,4 +1,4 @@
-# _plut_ = money/ wealth/ rich
+# _plut_ [GK] = money/ wealth/ rich
 
 <b style="color: #20B2AA;">plut</b>arch[y](-y.2.md)
 > n. 富豪统治，财阀统治

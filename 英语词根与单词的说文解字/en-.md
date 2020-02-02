@@ -9,3 +9,6 @@
 > vt. 使倾心，使迷恋
 >
 > 另看词缀 [-o(u)r](-our.md)
+
+<b style="color: #C71585;">em</b>[pathy](_pat_.md)
+> n. 共鸣，移情，同情

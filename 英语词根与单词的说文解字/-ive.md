@@ -4,3 +4,10 @@
 
 [act](_act_.md)<b style="color: #C71585;">ive</b>
 > adj. 活跃的
+
+[priv](_priv_.md)at<b style="color: #C71585;">ive</b>
+> adj. 剥夺性的，缺少特定性质的
+>
+> 单词 private —— n. adj. 私人的，秘密的，私立的，隐蔽的
+>
+> 另看词缀 [-ate](-ate.md)

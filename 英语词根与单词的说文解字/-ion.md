@@ -33,7 +33,7 @@ in[anim](_anim_.md)<b style="color: #C71585;">ation</b>
 >
 > 另看词缀 [in-](in-.1.md)
 
-super<b style="color: #20B2AA;">ann</b>u<b style="color: #C71585;">ation</b>
+super[ann](_ann_.md)u<b style="color: #C71585;">ation</b>
 > n. 领养老金退休，退休金
 >
 > 另看词缀 [super-](super-.md)
@@ -48,3 +48,11 @@ super<b style="color: #20B2AA;">ann</b>u<b style="color: #C71585;">ation</b>
 > n. 拍卖
 >
 > v. 拍卖
+
+[priv](_priv_.md)<b style="color: #C71585;">ation</b>
+> n. 缺乏，穷困
+
+com[pass](_pat_.md)<b style="color: #C71585;">ion</b>
+> n. 怜悯，同情
+>
+> 另看词缀 [com-](com-.md)

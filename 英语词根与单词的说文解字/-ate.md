@@ -23,3 +23,8 @@ super[ann](_ann_.md)u<b style="color: #C71585;">ate</b>
 
 [avi](_avi_.md)<b style="color: #C71585;">ate</b>
 > vi. 飞行，驾驶飞机
+
+[priv](_priv_.md)<b style="color: #C71585;">ate</b>
+> adj. 私人的，秘密的，私立的，隐蔽的
+>
+> n. 士兵，隐士，阴部

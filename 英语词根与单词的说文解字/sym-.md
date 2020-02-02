@@ -1,0 +1,4 @@
+# sym-(syn-/syl-/sys-/sy-) [GK] = together with/ same/ similar/ at the same time/ united
+
+<b style="color: #C71585;">sym</b>[pathy](_pat_.md)
+> n. 同情，怜悯；赞同；支持

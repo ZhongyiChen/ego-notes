@@ -15,3 +15,8 @@
 
 [aud](_aud_.md)<b style="color: #C71585;">ible</b>
 > adj. 听得见的
+
+com[pat](_pat_.md)<b style="color: #C71585;">ible</b>
+> adj. 一致的，可并立的，适合的
+>
+> 另看词缀 [com-](com-.md)

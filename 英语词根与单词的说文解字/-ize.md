@@ -18,3 +18,10 @@
 > 单词 author —— n. 发起人，创始者，著作家，作家
 >
 > 另看词缀 [-or](-or.md)
+
+[priv](_priv_.md)at<b style="color: #C71585;">ize</b>
+> v. 私有化
+>
+> 单词 private —— n. adj. 私人的，秘密的，私立的，隐蔽的
+>
+> 另看词缀 [-ate](-ate.md)

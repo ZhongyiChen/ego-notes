@@ -10,6 +10,8 @@
 [agr](_agr_.md)arian<b style="color: #C71585;">ism</b>
 > n. 田地均分法，平均地权论
 >
+> 单词 argarian —— adj. 农业的，土地的
+>
 > 可查看词缀 [-arian](-arian.md) 的意思
 
 an[arch](_arch_.md)<b style="color: #C71585;">ism</b>
@@ -28,3 +30,10 @@ al[arm](_arm_.md)<b style="color: #C71585;">ism</b>
 > 单词 alarm —— vt. 警告
 >
 > 另看词缀 [al-](ad-.md)
+
+[priv](_priv_.md)at<b style="color: #C71585;">ism</b>
+> n. 个人主义
+>
+> 单词 private —— n. adj. 私人的，秘密的，私立的，隐蔽的
+>
+> 另看词缀 [-ate](-ate.md)

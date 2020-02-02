@@ -59,3 +59,6 @@ un[anim](_anim_.md)<b style="color: #C71585;">ity</b>
 > 单词 author —— n. 发起人，创始者，著作家，作家
 >
 > 另看词缀 [-or](-or.md)
+
+[priv](_priv_.md)<b style="color: #C71585;">ity</b>
+> n. 私下知悉，默契
