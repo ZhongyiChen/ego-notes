@@ -7,3 +7,6 @@
 
 [aqu](_aqu_.md)i[cult](_cult_.md)<b style="color: #C71585;">ure</b>
 > n. 水产养殖
+
+[cinct](_cinct_.md)<b style="color: #C71585;">ure</b>
+> n. 环节，腰带

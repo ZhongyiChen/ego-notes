@@ -4,3 +4,8 @@ ad[ult](_ult_.md)<b style="color: #C71585;">ness</b>
 > n. 成熟，老成
 >
 > 另可查看词缀 [ad-](ad-.md)
+
+suc[cinct](_cinct_.md)<b style="color: #C71585;">ness</b>
+> n. 简洁，简明
+>
+> 另可查看词缀 [suc-](sub-.md)
