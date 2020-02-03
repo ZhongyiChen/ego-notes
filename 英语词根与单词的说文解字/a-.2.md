@@ -7,5 +7,5 @@
 >
 > 另看词缀 [-y](-y.2.md)
 
-<b style="color: #C71585;">a</b>[pathy](_pat_.md)
+<b style="color: #C71585;">a</b>[pathy](_pat_.2.md)
 > n. 冷淡，漠不关心

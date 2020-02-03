@@ -10,5 +10,5 @@
 >
 > 另看词缀 [-o(u)r](-our.md)
 
-<b style="color: #C71585;">em</b>[pathy](_pat_.md)
+<b style="color: #C71585;">em</b>[pathy](_pat_.2.md)
 > n. 共鸣，移情，同情

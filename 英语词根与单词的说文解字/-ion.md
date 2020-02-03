@@ -52,7 +52,7 @@ super[ann](_ann_.md)u<b style="color: #C71585;">ation</b>
 [priv](_priv_.md)<b style="color: #C71585;">ation</b>
 > n. 缺乏，穷困
 
-com[pass](_pat_.md)<b style="color: #C71585;">ion</b>
+com[pass](_pat_.2.md)<b style="color: #C71585;">ion</b>
 > n. 怜悯，同情
 >
 > 另看词缀 [com-](com-.md)

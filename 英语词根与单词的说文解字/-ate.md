@@ -28,3 +28,8 @@ super[ann](_ann_.md)u<b style="color: #C71585;">ate</b>
 > adj. 私人的，秘密的，私立的，隐蔽的
 >
 > n. 士兵，隐士，阴部
+
+ex[pat](_pat_.1.md)i<b style="color: #C71585;">ate</b>
+> vi. 详述，细说
+>
+> 另看词缀 [ex-](ex-.md)

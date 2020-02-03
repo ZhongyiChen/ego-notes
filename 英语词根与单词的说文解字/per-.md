@@ -4,3 +4,8 @@
 
 <b style="color: #C71585;">per</b>[enn](_ann_.md)i[al](-al.md)
 > adj. 长期存在的，持久的，长久的，常年的，反复出现的
+
+<b style="color: #C71585;">per</b>i[pat](_pat_.1.md)etic
+> adj.流动的；巡回工作的
+>
+> 另看词缀 [-etic](-ic.md)

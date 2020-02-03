@@ -33,17 +33,20 @@ an[arch](_arch_.md)<b style="color: #C71585;">ic</b>
 >
 > 另看词缀 [an-](a-.2.md)
 
-a[path](_pat_.md)<b style="color: #C71585;">etic</b>
+a[path](_pat_.2.md)<b style="color: #C71585;">etic</b>
 > adj. 冷淡的，漠不关心的
 >
 > 另看词缀 [a-](a-.2.md)
 
-anti[path](_pat_.md)<b style="color: #C71585;">etic</b>
+anti[path](_pat_.2.md)<b style="color: #C71585;">etic</b>
 > adj. 生来厌恶的，本性不相容的
 >
 > 另看词缀 [anti-](anti-.md)
 
-sym[path](_pat_.md)<b style="color: #C71585;">etic</b>
+sym[path](_pat_.2.md)<b style="color: #C71585;">etic</b>
 > adj. 同情的，有同情心的；赞同的；支持的
 >
 > 另看词缀 [sym-](sym-.md)
+
+[per](per-.md)i[pat](_pat_.1.md)<b style="color: #C71585;">etic</b>
+> adj.流动的；巡回工作的

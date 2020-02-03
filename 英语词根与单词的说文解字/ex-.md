@@ -12,3 +12,6 @@
 > adj. 已死的，缺乏生气的
 >
 > 另看词缀 [-ate](-ate.md)
+
+<b style="color: #C71585;">ex</b>[pat](_pat_.1.md)i[ate](-ate.md)
+> vi. 详述，细说
