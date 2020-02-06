@@ -31,3 +31,8 @@ super[aqu](_aqu_.md)<b style="color: #C71585;">eous</b>
 > adj. 水上的
 >
 > 另看词缀 [super-](super-.md)
+
+[trem](_trem_.md)end<b style="color: #C71585;">ous</b>
+> adj. 巨大的，非常的，可怕的
+>
+> -endous = [-end](-end.md) + -ous

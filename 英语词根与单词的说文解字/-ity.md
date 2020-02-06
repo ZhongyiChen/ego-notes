@@ -62,3 +62,8 @@ un[anim](_anim_.md)<b style="color: #C71585;">ity</b>
 
 [priv](_priv_.md)<b style="color: #C71585;">ity</b>
 > n. 私下知悉，默契
+
+in[trep](_trem_.md)id<b style="color: #C71585;">ity</b>
+> n. 无畏，大胆
+>
+> 另看词缀 [in-](in-.1.md) 和 [-id](-id.md)

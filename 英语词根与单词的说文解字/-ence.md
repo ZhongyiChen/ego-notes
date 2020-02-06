@@ -7,3 +7,8 @@
 
 [audi](_aud_.md)<b style="color: #C71585;">ence</b>
 > n. 观众，听众，读者
+
+pre[ced](_ced_.md)<b style="color: #C71585;">ence</b>
+> n. 优先，优先权
+>
+> 另看词缀 [pre-](pre-.md)

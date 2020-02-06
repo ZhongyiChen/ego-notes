@@ -23,3 +23,8 @@
 > adj. 听不见的
 >
 > 另看词缀 [ible](-able.md)
+
+<b style="color: #C71585;">in</b>[trep](_trem_.md)id
+> adj. 无畏的，勇敢的
+>
+> 另看词缀 [-id](-id.md)
