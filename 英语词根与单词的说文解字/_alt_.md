@@ -12,7 +12,7 @@
 <b style="color: #20B2AA;">alt</b>[o](-o.md)
 > n. 女低音，男声最高音，中音部
 
-<b style="color: #20B2AA;">alt</b>i[tude](-tude.md)
+<b style="color: #20B2AA;">alt</b>[itude](-itude.md)
 > n. 高度，海拔
 
 [ex](ex-.md)<b style="color: #20B2AA;">alt</b>

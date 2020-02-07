@@ -53,7 +53,7 @@
 [ex](ex-.md)<b style="color: #20B2AA;">act</b>
 > adj. 确切的，精确的
 
-ex<b style="color: #20B2AA;">act</b>i[tude](-tude.md)
+ex<b style="color: #20B2AA;">act</b>[itude](-itude.md)
 > n. 正确性，精密度，准度
 
 [inter](inter-.md)<b style="color: #20B2AA;">act</b>

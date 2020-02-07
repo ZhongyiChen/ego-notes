@@ -42,10 +42,10 @@ in<b style="color: #20B2AA;">anim</b>[ation](-ion.md)
 > 
 > -osity = [-ous](-ous.md) + [-ity](-ity.md)
 
-[magn](magn-.md)<b style="color: #20B2AA;">anim</b>[ity](-ity.md)
+[magn](_magn_.md)<b style="color: #20B2AA;">anim</b>[ity](-ity.md)
 > n. 宽宏大量，雅量
 
-[magn](magn-.md)<b style="color: #20B2AA;">anim</b>[ous](-ous.md)
+[magn](_magn_.md)<b style="color: #20B2AA;">anim</b>[ous](-ous.md)
 > adj. 宽宏大量的，有雅量的
 
 un<b style="color: #20B2AA;">anim</b>[ity](-ity.md)
