@@ -56,3 +56,8 @@ com[pass](_pat_.2.md)<b style="color: #C71585;">ion</b>
 > n. 怜悯，同情
 >
 > 另看词缀 [com-](com-.md)
+
+anti[cip](_cap_.md)<b style="color: #C71585;">ation</b>
+> n. 预期，预料，预料的事物
+>
+> 另看词缀 [anti-](anti-.1.md)

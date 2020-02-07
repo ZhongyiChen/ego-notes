@@ -11,7 +11,7 @@
 [anti](anti-.md)<b style="color: #20B2AA;">pathy</b>
 > n. (强烈的)反感，引起反感的事物
 
-[anti](anti-.md)<b style="color: #20B2AA;">path</b>[etic](-ic.md)
+[anti](anti-.2.md)<b style="color: #20B2AA;">path</b>[etic](-ic.md)
 > adj. 生来厌恶的，本性不相容的
 
 [sym](sym-.md)<b style="color: #20B2AA;">pathy</b>

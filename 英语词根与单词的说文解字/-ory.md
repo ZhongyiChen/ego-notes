@@ -10,3 +10,10 @@
 
 [audit](_aud_.md)<b style="color: #C71585;">ory</b>
 > adj. 听觉的，听觉器官的
+
+anti[cip](_cap_.md)at<b style="color: #C71585;">ory</b>
+> n. 预期，预料，预料的事物
+>
+> -atory = [-ate](-ate.md) + -ory
+>
+> 另看词缀 [anti-](anti-.1.md)
