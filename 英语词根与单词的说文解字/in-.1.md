@@ -28,3 +28,8 @@
 > adj. 无畏的，勇敢的
 >
 > 另看词缀 [-id](-id.md)
+
+<b style="color: #C71585;">in</b>[noc](_noc_.md)ence
+> n. 清白，无罪；天真无邪
+>
+> 另看词缀 [-ence](-ence.md)

@@ -12,3 +12,8 @@ pre[ced](_ced_.md)<b style="color: #C71585;">ence</b>
 > n. 优先，优先权
 >
 > 另看词缀 [pre-](pre-.md)
+
+in[noc](_noc_.md)<b style="color: #C71585;">ence</b>
+> n. 清白，无罪；天真无邪
+>
+> 另看词缀 [in-](in-.1.md)

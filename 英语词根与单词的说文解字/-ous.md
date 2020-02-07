@@ -36,3 +36,8 @@ super[aqu](_aqu_.md)<b style="color: #C71585;">eous</b>
 > adj. 巨大的，非常的，可怕的
 >
 > -endous = [-end](-end.md) + -ous
+
+ob[nox](_noc_.md)i<b style="color: #C71585;">ous</b>
+> adj. 极讨厌的，可憎的，令人作呕的
+>
+> 另看词缀 [ob-](ob-.md)
