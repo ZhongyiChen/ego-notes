@@ -24,3 +24,10 @@ mon[arch](_arch_.md)<b style="color: #C71585;">y</b>
 
 [arm](_arm_.md)<b style="color: #C71585;">y</b>
 > n. 军队，陆军
+
+ana[log](_log_.md)<b style="color: #C71585;">y</b>
+> n. 类比，比拟，比喻，类推
+>
+> 另看词缀 [ana-](ana-.md)
+>
+> 注：这里之所以不能看成 -logy，是因为不存在其他词根
