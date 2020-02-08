@@ -17,3 +17,8 @@ in[noc](_noc_.md)<b style="color: #C71585;">ence</b>
 > n. 清白，无罪；天真无邪
 >
 > 另看词缀 [in-](in-.1.md)
+
+re[sid](_sid_.md)<b style="color: #C71585;">ence</b>
+> n. 居住，住宅
+>
+> 另看词缀 [re-](re-.md)

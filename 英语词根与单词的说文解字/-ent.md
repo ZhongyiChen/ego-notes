@@ -11,3 +11,15 @@ in[noc](_noc_.md)<b style="color: #C71585;">ent</b>
 > n.清白的人；单纯的人；无真无邪的人(尤其指孩子)
 >
 > 另看词缀 [in-](in-.1.md)
+
+re[sid](_sid_.md)<b style="color: #C71585;">ent</b>
+> n. 居民，住户，(旅馆的)住宿者，(美国的)高级专科住院实习医生
+>
+> adj. (在某地)居住的
+>
+> 另看词缀 [re-](re-.md)
+
+pre[sid](_sid_.md)<b style="color: #C71585;">ent</b>
+> n. 总统，校长，董事长
+>
+> 另看词缀 [pre-](pre-.md)

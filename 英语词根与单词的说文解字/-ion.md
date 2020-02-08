@@ -71,3 +71,6 @@ com[mot](_mov_.md)<b style="color: #C71585;">ion</b>
 > n. 动机，意志
 >
 > -ivation = [-ive](-ive.md) + [-ate](-ate.md) + [-ion](-ion.md)
+
+[sess](_sid_.md)<b style="color: #C71585;">ion</b>
+> n. 会议，(法庭的)开庭，(议会等的)开会，学期，讲习会；一场，一节，一段时间

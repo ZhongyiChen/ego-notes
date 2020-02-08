@@ -9,3 +9,6 @@
 > n. 优先，优先权
 >
 > 另看词缀 [-ence](-ence.md)
+
+<b style="color: #C71585;">pre</b>[sid](_sid_.md)e
+> v. 主持(会议、仪式等)，担任(会议)主席
