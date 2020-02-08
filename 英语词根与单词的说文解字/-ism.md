@@ -37,3 +37,6 @@ al[arm](_arm_.md)<b style="color: #C71585;">ism</b>
 > 单词 private —— n. adj. 私人的，秘密的，私立的，隐蔽的
 >
 > 另看词缀 [-ate](-ate.md)
+
+[soph](_soph_.md)<b style="color: #C71585;">ism</b>
+> n. n. 诡辩，似是而非的论点

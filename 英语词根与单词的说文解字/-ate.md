@@ -1,4 +1,4 @@
-# -ate(-itate) [L] = of ~/ having ~/ like ~/ to become ~/ to cause to be ~/ to produce ~/ to treat with ~/ to combine with ~/ salt made from ~
+# -ate [L] = of ~/ having ~/ like ~/ to become ~/ to cause to be ~/ to produce ~/ to treat with ~/ to combine with ~/ salt made from ~/ indicate person/ indicate general name
 
 [act](_act_.md)<b style="color: #C71585;">ate</b>
 > vt. 使活动，触发，开动，启动，激活
@@ -33,3 +33,15 @@ ex[pat](_pat_.1.md)i<b style="color: #C71585;">ate</b>
 > vi. 详述，细说
 >
 > 另看词缀 [ex-](ex-.md)
+
+[soph](_soph_.md)istic<b style="color: #C71585;">ate</b>
+> vt. 弄复杂，使变得世故，曲解
+>
+> n. 久经世故的人，精通者
+>
+> -isticate = [-ist](-ist.md) + [-ic](-ic.md) + -ate
+
+[mot](_mov_.md)iv<b style="color: #C71585;">ate</b>
+> vt. 给予...动机，刺激，激发
+>
+> -ivate = [-ive](-ive.md) + -ate

@@ -11,3 +11,8 @@
 > n. 哲学，智者
 >
 > 另看词缀 [-ie](-ie.md)
+
+<b style="color: #C71585;">phil</b>o[soph](_soph_.md)y
+> n. 哲学，人生观，冷静
+>
+> 另看词缀 [-y](-y.2.md)

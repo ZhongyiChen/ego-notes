@@ -50,3 +50,8 @@ sym[path](_pat_.2.md)<b style="color: #C71585;">etic</b>
 
 [per](per-.md)i[pat](_pat_.1.md)<b style="color: #C71585;">etic</b>
 > adj.流动的；巡回工作的
+
+[soph](_soph_.md)ist<b style="color: #C71585;">ic</b>
+> adj. 诡辩的,强词夺理的
+>
+> -istic = [-ist](-ist.md) + -ic

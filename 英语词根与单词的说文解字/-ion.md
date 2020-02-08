@@ -61,3 +61,13 @@ anti[cip](_cap_.md)<b style="color: #C71585;">ation</b>
 > n. 预期，预料，预料的事物
 >
 > 另看词缀 [anti-](anti-.1.md)
+
+com[mot](_mov_.md)<b style="color: #C71585;">ion</b>
+> n.骚动，混乱，暴乱
+>
+> 另看词缀 [com-](com-.md)
+
+[mot](_mov_.md)ivat<b style="color: #C71585;">ion</b>
+> n. 动机，意志
+>
+> -ivation = [-ive](-ive.md) + [-ate](-ate.md) + [-ion](-ion.md)

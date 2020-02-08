@@ -13,3 +13,6 @@
 > 单词 private —— n. adj. 私人的，秘密的，私立的，隐蔽的
 >
 > 另看词缀 [-ate](-ate.md)
+
+[phil](phil-.md)o[soph](_soph_.md)<b style="color: #C71585;">er</b>
+> n. 哲学家，思想家

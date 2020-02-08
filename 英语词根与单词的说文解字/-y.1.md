@@ -5,13 +5,17 @@
 bump<b style="color: #C71585;">y</b>
 > adj. 崎岖不平的，颠簸的
 >
->  单词 bump —— n. 颠簸
+> 单词 bump —— n. 颠簸
 
 cloud<b style="color: #C71585;">y</b>
 > adj. 多云的，被云遮住的
+>
+> 单词 cloud —— n. 云
 
 funn<b style="color: #C71585;">y</b>
 > adj. 滑稽可笑的，有趣的
+>
+> 单词 fun —— n. 乐趣
 
 [priv](_priv_.md)<b style="color: #C71585;">y</b>
 > adj. 个人的，私人的，秘密的，隐蔽的

@@ -31,3 +31,6 @@ ana[log](_log_.md)<b style="color: #C71585;">y</b>
 > 另看词缀 [ana-](ana-.md)
 >
 > 注：这里之所以不能看成 -logy，是因为不存在其他词根
+
+[phil](phil-.md)o[soph](_soph_.md)<b style="color: #C71585;">y</b>
+> n. 哲学，人生观，冷静

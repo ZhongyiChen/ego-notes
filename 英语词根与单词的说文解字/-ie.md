@@ -25,10 +25,8 @@ dear<b style="color: #C71585;">ie</b>
 [phil](phil-.md)o[soph](_soph_.md)<b style="color: #C71585;">ie</b>
 > n. 哲学，智者
 
-mov<b style="color: #C71585;">ie</b>
+[mov](_mov_.md)<b style="color: #C71585;">ie</b>
 > n. 电影
->
-> 单词 move —— v. 移动 
 
 sweet<b style="color: #C71585;">ie</b>
 > n. 糖果

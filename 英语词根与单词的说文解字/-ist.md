@@ -41,3 +41,6 @@ al[arm](_arm_.md)<b style="color: #C71585;">ist</b>
 > 单词 alarm —— vt. 警告
 >
 > 另看词缀 [al-](ad-.md)
+
+[soph](_soph_.md)<b style="color: #C71585;">ist</b>
+> n. 辩士，博学者，诡辨家
