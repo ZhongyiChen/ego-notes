@@ -6,3 +6,8 @@
 > n. 领受年金者
 >
 > 另看词缀 [-ity](-ity.md)
+
+i[gnor](_gn_.md)<b style="color: #C71585;">ant</b>
+> adj. 无知的，愚昧的
+>
+> 另看词缀 [i-](in-.1.md)

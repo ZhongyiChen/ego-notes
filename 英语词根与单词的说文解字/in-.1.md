@@ -1,6 +1,6 @@
-# in-(il-/im-/ir-) [L] = not/ lack of
+# in-(il-/im-/ir-/i-) [L] = not/ lack of
 
-*派生前缀 in- 的异体包括 il- 和 im- 和 ir-。派生前缀 in- 出现在除 l, b, m, p, r 之外的其他字母之前；il- 出现在 l 之前；ir- 出现在 r 之前；im- 出现在唇音 b, p, m 之前。*
+*派生前缀 in- 的异体包括 il- 和 im- 和 ir-。派生前缀 in- 出现在除 l, b, m, p, r 之外的其他字母之前；il- 出现在 l 之前；ir- 出现在 r 之前；im- 出现在唇音 b, p, m 之前；i- 出现在 g 之前。*
 
 *in- 除了作为表否定意义的派生前缀，还有另外一种情况：表方向的原生前缀 [in-](in-.2.md)。*
 
@@ -40,3 +40,16 @@
 > n. 清白，无罪；天真无邪
 >
 > 另看词缀 [-ence](-ence.md)
+
+<b style="color: #C71585;">i</b>[gnor](_gn_.md)e
+> vt. 驳回诉讼，忽视，不理睬
+
+<b style="color: #C71585;">i</b>[gnor](_gn_.md)ance
+> n. 无知，愚昧；不知，不懂
+>
+> 另看词缀 [-ance](-ance.md)
+
+<b style="color: #C71585;">i</b>[gnor](_gn_.md)ant
+> adj. 无知的，愚昧的
+>
+> 另看词缀 [-ant](-ant.md)

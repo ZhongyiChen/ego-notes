@@ -9,3 +9,10 @@
 
 <b style="color: #C71585;">a</b>[pathy](_pat_.2.md)
 > n. 冷淡，漠不关心
+
+<b style="color: #C71585;">a</b>[gnost](_gn_.md)ic
+> adj. 不可之论的
+>
+> n. 不可知论者
+>
+> 另看词缀 [-ic](-ic.md)

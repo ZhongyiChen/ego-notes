@@ -58,3 +58,10 @@ sym[path](_pat_.2.md)<b style="color: #C71585;">etic</b>
 
 [hyp](hyp-.md)o[thet](_thet_.md)<b style="color: #C71585;">ic</b>
 > adj. 假设的，有待证实的，假定的，有前提的
+
+a[gnost](_gn_.md)<b style="color: #C71585;">ic</b>
+> adj. 不可之论的
+>
+> n. 不可知论者
+>a
+> 另看词缀 [-a](a-.2.md)

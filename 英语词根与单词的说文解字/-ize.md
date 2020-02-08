@@ -30,3 +30,8 @@ im[mob](_mov_.md)il<b style="color: #C71585;">ize</b>
 > v. 使不能移动
 >
 > 单词 immobile —— adj. 不能移动的，不动的，固定的
+
+[re](re-.md)co[gn](_gn_.md)<b style="color: #C71585;">ize</b>
+> vt. 认出，识别，承认
+>
+> 另看词缀 [co-](com-.md)

@@ -14,3 +14,8 @@
 
 <b style="color: #C71585;">re</b>[sid](_sid_.md)e
 > v. 安家，居住，属于
+
+<b style="color: #C71585;">re</b>co[gn](_gn_.md)ize
+> vt. 认出，识别，承认
+>
+> 另看词缀 [co-](com-.md) 和 [-ize](-ize.md)

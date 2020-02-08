@@ -74,3 +74,17 @@ com[mot](_mov_.md)<b style="color: #C71585;">ion</b>
 
 [sess](_sid_.md)<b style="color: #C71585;">ion</b>
 > n. 会议，(法庭的)开庭，(议会等的)开会，学期，讲习会；一场，一节，一段时间
+
+co[gn](_gn_.md)it<b style="color: #C71585;">ion</b>
+> n. 认识，知识，认识能力
+>
+> -ition = [-ite](-ite.md) + -ion
+>
+> 另看词缀 [co-](com-.md)
+
+[re](re-.md)co[gn](_gn_.md)it<b style="color: #C71585;">ion</b>
+> n. 识别，承认，认出；重视；赞誉；公认
+>
+> -ition = [-ite](-ite.md) + -ion
+>
+> 另看词缀 [co-](com-.md)
