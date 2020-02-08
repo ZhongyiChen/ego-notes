@@ -1,4 +1,4 @@
-# -ine [GK] = belong to ~/ having ~/ resembling ~/ characterized by ~/ of the nature of ~; indicate an abstract noun; indicate a woman; indicate the name of the medicine or the chemical
+# -ine [GK] = belong to ~/ having ~/ resembling ~/ characterized by ~/ of the nature of ~; indicate an abstract noun; indicate feminine; indicate the name of the medicine or the chemical
 
 *可以看出，第一个分号前的意思是指代形容词的，其余的意思是指代名词的。*
 

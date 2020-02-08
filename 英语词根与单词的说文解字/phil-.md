@@ -6,3 +6,8 @@
 > n. 博爱，慈善，仁慈
 >
 > 另看词缀 [-y](-y.2.md)
+
+<b style="color: #C71585;">phil</b>o[soph](_soph_.md)ie
+> n. 哲学，智者
+>
+> 另看词缀 [-ie](-ie.md)
