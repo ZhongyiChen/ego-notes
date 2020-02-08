@@ -12,3 +12,6 @@
 > v. 破译
 >
 > 单词 code —— n. 密码
+
+<b style="color: #C71585;">de</b>[pend](_pend_.md)
+> vi. 依赖，依靠；取决于；相信，信赖

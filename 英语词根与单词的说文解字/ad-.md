@@ -17,3 +17,6 @@
 
 <b style="color: #C71585;">al</b>[arm](_arm_.md)
 > vt. 警告
+
+<b style="color: #C71585;">ap</b>[pend](_pend_.md)
+> vt. 贴上，(在文章后面)附加，增补

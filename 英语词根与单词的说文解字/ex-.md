@@ -15,3 +15,6 @@
 
 <b style="color: #C71585;">ex</b>[pat](_pat_.1.md)i[ate](-ate.md)
 > vi. 详述，细说
+
+<b style="color: #C71585;">ex</b>[pend](_pend_.md)
+> v. 花费，消费，耗费
