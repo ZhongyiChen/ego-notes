@@ -29,6 +29,13 @@
 >
 > 另看词缀 [-id](-id.md)
 
+<b style="color: #C71585;">in</b>[noc](_noc_.md)ent
+> adj.无罪的；无害的；单纯的，天真的；愚钝的 
+>
+> n.清白的人；单纯的人；无真无邪的人(尤其指孩子)
+>
+> 另看词缀 [-ent](-ent.md)
+
 <b style="color: #C71585;">in</b>[noc](_noc_.md)ence
 > n. 清白，无罪；天真无邪
 >
