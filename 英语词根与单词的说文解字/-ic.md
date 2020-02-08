@@ -55,3 +55,6 @@ sym[path](_pat_.2.md)<b style="color: #C71585;">etic</b>
 > adj. 诡辩的,强词夺理的
 >
 > -istic = [-ist](-ist.md) + -ic
+
+[hyp](hyp-.md)o[thet](_thet_.md)<b style="color: #C71585;">ic</b>
+> adj. 假设的，有待证实的，假定的，有前提的

@@ -55,3 +55,8 @@ per[enn](_ann_.md)i<b style="color: #C71585;">al</b>
 > 在这里，auctor = author
 >
 > 另看词缀 [-or](-or.md)
+
+[hyp](hyp-.md)o[thet](_thet_.md)ic<b style="color: #C71585;">al</b>
+> adj. 假设的，有待证实的，假定的，有前提的
+>
+> -ical = [-ic](-ic.md) + -al
