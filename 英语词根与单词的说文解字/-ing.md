@@ -11,3 +11,8 @@ al[arm](_arm_.md)<b style="color: #C71585;">ing</b>
 > 单词 alarm —— vt. 警告
 >
 > 另看词缀 [al-](ad-.md)
+
+in[clud](_clud_.md)<b style="color: #C71585;">ing</b>
+> prep. 包含，包括
+>
+> 另看词缀 [in-](in-.2.md)

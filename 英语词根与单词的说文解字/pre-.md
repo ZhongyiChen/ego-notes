@@ -15,3 +15,6 @@
 
 <b style="color: #C71585;">pre</b>[pend](_pend_.md)
 > vt. 预先考虑，预置，前置，预追加，预先准备
+
+<b style="color: #C71585;">pre</b>[clud](_clud_.md)e
+> vt. 排除；妨碍；阻止

@@ -8,3 +8,6 @@
 > vt. 使曝晒
 >
 > 另看词缀 [-ate](-ate.md)
+
+<b style="color: #C71585;">in</b>[clud](_clud_.md)e
+> vt. 包含，包括

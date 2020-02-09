@@ -7,7 +7,7 @@
 >
 > vt. 触底；上鞋底
 
-[con](com.md)<b style="color: #20B2AA;">sol</b>e
+[con](com-.md)<b style="color: #20B2AA;">sol</b>e
 > vt. 安慰，慰藉
 >
 > n. [计] 控制台；[电] 操纵台

@@ -31,3 +31,8 @@
 > n. 认识，知识，认识能力
 >
 > -ition = [-ite](-ite.md) + [-ion](-ion.md)
+
+<b style="color: #C71585;">con</b>[clud](_clud_.md)e
+> vt. 推断；决定，作结论；结束
+>
+> vi. 推断，断定；决定

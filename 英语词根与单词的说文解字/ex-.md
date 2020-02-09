@@ -18,3 +18,6 @@
 
 <b style="color: #C71585;">ex</b>[pend](_pend_.md)
 > v. 花费，消费，耗费
+
+<b style="color: #C71585;">ex</b>[clud](_clud_.md)e
+> vt. 排除，排斥，拒绝接纳，逐出

@@ -88,3 +88,23 @@ co[gn](_gn_.md)it<b style="color: #C71585;">ion</b>
 > -ition = [-ite](-ite.md) + -ion
 >
 > 另看词缀 [co-](com-.md)
+
+con[clus](_clud_.md)<b style="color: #C71585;">ion</b>
+> n. 结论；结局；推论
+>
+> 另看词缀 [con-](com-.md)
+
+pre[clus](_clud_.md)<b style="color: #C71585;">ion</b>
+> n. 排除；阻止；妨碍；预防
+>
+> 另看词缀 [pre-](pre-.md)
+
+ex[clus](_clud_.md)<b style="color: #C71585;">ion</b>
+> n. 排除，排斥，驱逐；被排除在外的事物
+>
+> 另看词缀 [ex-](ex-.md)
+
+in[clus](_clud_.md)<b style="color: #C71585;">ion</b>
+> n. 包含；内含物
+>
+> 另看词缀 [in-](in-.2.md)

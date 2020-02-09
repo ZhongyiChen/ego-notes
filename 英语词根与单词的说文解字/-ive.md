@@ -16,3 +16,23 @@
 > n. 动机，原因，目的
 >
 > adj. 发动的，导致运动的
+
+con[clus](_clud_.md)<b style="color: #C71585;">ive</b>
+> adj. 决定性的；最后的；确实的；确定性的
+>
+> 另看词缀 [con-](com-.md)
+
+pre[clus](_clud_.md)<b style="color: #C71585;">ive</b>
+> adj. 妨碍的；除外的；预防的
+>
+> 另看词缀 [pre-](pre-.md)
+
+ex[clus](_clud_.md)<b style="color: #C71585;">ive</b>
+> adj. 独有的，排外的，专一的
+>
+> 另看词缀 [ex-](ex-.md)
+
+in[clus](_clud_.md)<b style="color: #C71585;">ive</b>
+> adj. 包括的，包含的
+>
+> 另看词缀 [in-](in-.2.md)
