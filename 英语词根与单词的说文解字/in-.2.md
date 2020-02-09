@@ -11,3 +11,6 @@
 
 <b style="color: #C71585;">in</b>[clud](_clud_.md)e
 > vt. 包含，包括
+
+<b style="color: #C71585;">in</b>[vent](_ven_.md)
+> vt. 发明；创造；虚构

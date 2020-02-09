@@ -41,3 +41,10 @@ ob[nox](_noc_.md)i<b style="color: #C71585;">ous</b>
 > adj. 极讨厌的，可憎的，令人作呕的
 >
 > 另看词缀 [ob-](ob-.md)
+
+ad[vent](_ven_.md)ur<b style="color: #C71585;">ous</b>
+> adj. 爱冒险的；大胆的；充满危险的
+>
+> -urous = [-ure](-ure.md) + -ous
+>
+> 另看词缀 [ad-](ad-.md)

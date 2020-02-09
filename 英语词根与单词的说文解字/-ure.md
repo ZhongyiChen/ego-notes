@@ -10,3 +10,10 @@
 
 [cinct](_cinct_.md)<b style="color: #C71585;">ure</b>
 > n. 环节，腰带
+
+ad[vent](_ven_.md)<b style="color: #C71585;">ure</b>
+> n. 冒险；冒险精神；投机活动
+>
+> vt. 冒险；大胆说出
+>
+> 另看词缀 [ad-](ad-.md)

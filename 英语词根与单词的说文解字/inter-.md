@@ -9,3 +9,6 @@
 >  adj. 自相残杀的，两败具伤的
 >
 > 另看词缀 [-ine](-ine.md)
+
+<b style="color: #C71585;">inter</b>[ven](_ven_.md)e
+> vi. 干涉；调停；插入

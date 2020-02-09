@@ -36,3 +36,8 @@ in[clus](_clud_.md)<b style="color: #C71585;">ive</b>
 > adj. 包括的，包含的
 >
 > 另看词缀 [in-](in-.2.md)
+
+in[vent](_ven_.md)<b style="color: #C71585;">ive</b>
+> adj. 发明的；有发明才能的，独出心裁的
+>
+> 另看词缀 [in-](in-.2.md)

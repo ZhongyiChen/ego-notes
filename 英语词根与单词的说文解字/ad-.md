@@ -23,3 +23,14 @@
 
 <b style="color: #C71585;">as</b>[sign](_sign_.md)
 > v. 分配，分派，指派(任务等)；指定(时间、地点)；把...归于；任命，委任；转让(财产、权力等)，让渡
+
+<b style="color: #C71585;">ad</b>[vent](_ven_.md)
+> n. 到来，出现；基督降临，基督降临节
+
+<b style="color: #C71585;">ad</b>[vent](_ven_.md)ure
+> n. 冒险；冒险精神；投机活动
+>
+> vt. 冒险；大胆说出
+> vt. 冒险；大胆说出
+>
+> 另看词缀 [-ure](-ure.md)
