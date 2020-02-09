@@ -12,3 +12,10 @@
 
 [avi](_avi_.md)<b style="color: #C71585;">ary</b>
 > n. 大鸟笼，鸟舍，鸟类饲养场
+
+[sol](_sol_.md)it<b style="color: #C71585;">ary</b>
+> adj. 孤独的，独居的
+>
+> n. 独居者，隐士
+>
+> -itary = [-ite](-ite.md) + [-ary](-ary.md)

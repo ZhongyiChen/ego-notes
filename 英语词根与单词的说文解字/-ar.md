@@ -5,5 +5,10 @@
 [alt](_alt_.md)<b style="color: #C71585;">ar</b>
 > n. (教堂、庙宇的)圣坛，祭坛
 
-[ann](_ann_.md)<b style="color: #C71585;">ular</b>
+[ann](_ann_.md)ul<b style="color: #C71585;">ar</b>
 > adj. 环的，环形的，有环纹的
+>
+> -ular = [-ule](-ule.md) + -ar
+
+[sol](_sol_.md)<b style="color: #C71585;">ar</b>
+> adj. 太阳的，日光的；利用太阳光的；与太阳相关的

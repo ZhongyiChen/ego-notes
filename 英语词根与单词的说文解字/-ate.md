@@ -45,3 +45,15 @@ ex[pat](_pat_.1.md)i<b style="color: #C71585;">ate</b>
 > vt. 给予...动机，刺激，激发
 >
 > -ivate = [-ive](-ive.md) + -ate
+
+in[sol](_sol_.md)<b style="color: #C71585;">ate</b>
+> vt. 使曝晒
+>
+> 另看词缀 [in-](in-.2.md)
+
+de[sol](_sol_.md)<b style="color: #C71585;">ate</b>
+> vt. 使荒凉，使孤寂
+>
+> adj. 荒凉的，无人烟的
+>
+> 另看词缀 [de-](de-.md)

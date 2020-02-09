@@ -22,6 +22,11 @@
 >
 > n. 改变宗教(或信仰、观点)的人，皈依者
 
+<b style="color: #C71585;">con</b>[sol](_sol_.md)e
+> vt. 安慰，慰藉
+>
+> n. [计] 控制台；[电] 操纵台
+
 <b style="color: #C71585;">co</b>[gn](_gn_.md)ition
 > n. 认识，知识，认识能力
 >

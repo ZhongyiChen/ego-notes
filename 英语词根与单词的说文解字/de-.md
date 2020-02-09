@@ -15,3 +15,10 @@
 
 <b style="color: #C71585;">de</b>[pend](_pend_.md)
 > vi. 依赖，依靠；取决于；相信，信赖
+
+<b style="color: #C71585;">de</b>[sol](_sol_.md)ate
+> vt. 使荒凉，使孤寂
+>
+> adj. 荒凉的，无人烟的
+>
+> 另看词缀 [-ate](-ate.md)

@@ -69,8 +69,10 @@ trimill<b style="color: #20B2AA;">enn</b>ium
 [per](per-.md)<b style="color: #20B2AA;">enn</b>i[al](-al.md)
 > adj. 长期存在的，持久的，长久的，常年的，反复出现的
 
-<b style="color: #20B2AA;">ann</b>[ular](-ar.md)
+<b style="color: #20B2AA;">ann</b>ul[ar](-ar.md)
 > adj. 环的，环形的，有环纹的
+>
+> -ular = [-ule](-ule.md) + -ar
 
 <b style="color: #20B2AA;">ann</b>ular[ity](-ity.md)
 > n. 环状，轮状
