@@ -18,3 +18,13 @@
 
 <b style="color: #C71585;">pre</b>[clud](_clud_.md)e
 > vt. 排除；妨碍；阻止
+
+<b style="color: #C71585;">pre</b>[tend](_tend_.md)
+> v. 假装，伪装，佯装
+>
+> adj. 假装的
+
+<b style="color: #C71585;">pre</b>[tens](_tend_.md)e
+> n. 借口；虚假；炫耀；自吹
+>
+> pretence 同义

@@ -21,3 +21,8 @@
 
 <b style="color: #C71585;">ex</b>[clud](_clud_.md)e
 > vt. 排除，排斥，拒绝接纳，逐出
+
+<b style="color: #C71585;">ex</b>[tend](_tend_.md)
+> vt. 延伸，扩大，推广，伸出；给予；使竭尽全力；对…估价
+>
+> vi. 延伸，扩大，伸展；使疏开

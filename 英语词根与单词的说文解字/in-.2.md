@@ -14,3 +14,11 @@
 
 <b style="color: #C71585;">in</b>[vent](_ven_.md)
 > vt. 发明；创造；虚构
+
+<b style="color: #C71585;">in</b>[tend](_tend_.md)
+> vt. 打算，想要，意指
+>
+> vi. 有打算
+
+<b style="color: #C71585;">in</b>[tens](_tend_.md)e
+> adj. 强烈的；紧张的；非常的；热情的
