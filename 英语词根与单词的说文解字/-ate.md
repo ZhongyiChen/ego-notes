@@ -64,3 +64,10 @@ de[sign](_sign_.md)<b style="color: #C71585;">ate</b>
 > adj.指派的
 >
 > 另看词缀 [de-](de-.md)
+
+in[nov](_nov_.md)<b style="color: #C71585;">ate</b>
+> vt. 改变；创立；创始；引人
+>
+> vi. 创新；改革；革新
+>
+> 另看词缀 [in-](in-.2.md)

@@ -22,3 +22,10 @@
 
 <b style="color: #C71585;">in</b>[tens](_tend_.md)e
 > adj. 强烈的；紧张的；非常的；热情的
+
+<b style="color: #C71585;">in</b>[nov](_nov_.md)ate
+> vt. 改变；创立；创始；引人
+>
+> vi. 创新；改革；革新
+>
+> 另看词缀 [-ate](-ate.md)
