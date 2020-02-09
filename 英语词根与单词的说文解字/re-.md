@@ -19,3 +19,6 @@
 > vt. 认出，识别，承认
 >
 > 另看词缀 [co-](com-.md) 和 [-ize](-ize.md)
+
+<b style="color: #C71585;">re</b>[sign](_sign_.md)
+> vt. 辞职；放弃；委托；使听从

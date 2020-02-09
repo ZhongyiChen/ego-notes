@@ -60,3 +60,10 @@ per[enn](_ann_.md)i<b style="color: #C71585;">al</b>
 > adj. 假设的，有待证实的，假定的，有前提的
 >
 > -ical = [-ic](-ic.md) + -al
+
+[sign](_sign_.md)<b style="color: #C71585;">al</b>
+> n. 信号，暗号；导火线
+>
+> vt. 标志；用信号通知，发信号
+>
+> adj. 显著的，作为信号的

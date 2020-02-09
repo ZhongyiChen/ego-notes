@@ -4,3 +4,8 @@
 
 [ac](_ac_.md)id<b style="color: #C71585;">ify</b>
 > v. 使酸化，使成酸性，变酸
+>
+> 单词 acid —— n. 酸
+
+[sign](_sign_.md)<b style="color: #C71585;">ify</b>
+> vt. 表明，表示；意味着；有重要性

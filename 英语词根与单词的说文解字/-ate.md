@@ -57,3 +57,10 @@ de[sol](_sol_.md)<b style="color: #C71585;">ate</b>
 > adj. 荒凉的，无人烟的
 >
 > 另看词缀 [de-](de-.md)
+
+de[sign](_sign_.md)<b style="color: #C71585;">ate</b>
+> vt. 标明，指出；命名；指派，任命
+>
+> adj.指派的
+>
+> 另看词缀 [de-](de-.md)

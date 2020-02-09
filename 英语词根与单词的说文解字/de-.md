@@ -22,3 +22,10 @@
 > adj. 荒凉的，无人烟的
 >
 > 另看词缀 [-ate](-ate.md)
+
+<b style="color: #C71585;">de</b>[sign](_sign_.md)ate
+> vt. 标明，指出；命名；指派，任命
+>
+> adj.指派的
+>
+> 另看词缀 [-ate](-ate.md)
