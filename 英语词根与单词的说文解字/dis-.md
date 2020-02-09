@@ -11,3 +11,8 @@
 
 <b style="color: #C71585;">dis</b>[arm](_arm_.md)
 > vi. 裁军
+
+<b style="color: #C71585;">dis</b>[patch](_ped_.md)
+> vt. 派遣；分派
+>
+> n. 派遣；急件
