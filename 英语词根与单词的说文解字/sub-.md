@@ -10,3 +10,8 @@
 
 <b style="color: #C71585;">suc</b>[cinct](_cinct_.md)
 > adj. 简洁的，简明的
+
+<b style="color: #C71585;">sub</b>[stitut](_st_.md)e
+> n. 代用品，代替者
+>
+> vt. 代替
