@@ -22,3 +22,10 @@
 
 <b style="color: #C71585;">re</b>[sign](_sign_.md)
 > vt. 辞职；放弃；委托；使听从
+
+<b style="color: #C71585;">re</b>[sum](_sum_.1.md)e
+> vt. 重新开始，继续；恢复，重新占用
+>
+> vi. 重新开始，继续
+>
+> n. 摘要；[管理] 履历，简历

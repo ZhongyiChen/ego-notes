@@ -28,3 +28,6 @@
 > n. 借口；虚假；炫耀；自吹
 >
 > pretence 同义
+
+<b style="color: #C71585;">pre</b>[sum](_sum_.1.md)e
+> vt. 假定，推测；擅自；意味着

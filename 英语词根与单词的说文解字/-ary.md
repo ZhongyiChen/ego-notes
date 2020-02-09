@@ -19,3 +19,8 @@
 > n. 独居者，隐士
 >
 > -itary = [-ite](-ite.md) + [-ary](-ary.md)
+
+[sum](_sum_.2.md)m<b style="color: #C71585;">ary</b>
+> n. 概要，摘要，总结
+>
+> adj. 简易的；扼要的
