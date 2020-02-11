@@ -71,3 +71,8 @@ in[nov](_nov_.md)<b style="color: #C71585;">ate</b>
 > vi. 创新；改革；革新
 >
 > 另看词缀 [in-](in-.2.md)
+
+pro[pag](_pact_.md)<b style="color: #C71585;">ate</b>
+> v. 繁殖，繁衍；传播，传送
+>
+> 另看词缀 [pro-](pro-.md)

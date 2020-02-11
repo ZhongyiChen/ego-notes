@@ -113,3 +113,6 @@ in[vent](_ven_.md)<b style="color: #C71585;">ion</b>
 > n. 发明，发明物；虚构；发明才能
 >
 > 另看词缀 [in-](in-.2.md)
+
+[pact](_pact_.md)<b style="color: #C71585;">ion</b>
+> n. 短期的国际协定

@@ -4,3 +4,8 @@
 
 <b style="color: #C71585;">pro</b>[mot](_mov_.md)e
 > v. 使晋升，使晋级，推进，促进，发起
+
+<b style="color: #C71585;">pro</b>[pag](_pact_.md)ate
+> v. 繁殖，繁衍；传播，传送
+>
+> 另看词缀 [-ate](-ate.md)

@@ -65,3 +65,6 @@ a[gnost](_gn_.md)<b style="color: #C71585;">ic</b>
 > n. 不可知论者
 >a
 > 另看词缀 [-a](a-.2.md)
+
+[pect](_pact_.md)<b style="color: #C71585;">ic</b>
+> adj. 果胶的，粘胶质的
