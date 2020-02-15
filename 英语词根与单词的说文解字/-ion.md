@@ -119,3 +119,8 @@ in[vent](_ven_.md)<b style="color: #C71585;">ion</b>
 
 [fict](_fig_.md)<b style="color: #C71585;">ion</b>
 > n. 小说；虚构，编造；谎言
+
+[vol](_vol_.md)it<b style="color: #C71585;">ion</b>
+> n. 意志，意志力；决断力
+>
+> -ition = [-ite](-ite.md) + -ion

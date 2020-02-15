@@ -22,3 +22,6 @@ dis[arm](_arm_.md)a<b style="color: #C71585;">ment</b>
 > n. 增加，提高，扩大
 >
 > v. 增加，扩大，增大
+
+[fig](_fig_.md)<b style="color: #C71585;">ment</b>
+> n. 虚构的事；臆造的事物

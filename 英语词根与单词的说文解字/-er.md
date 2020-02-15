@@ -16,3 +16,10 @@
 
 [phil](phil-.md)o[soph](_soph_.md)<b style="color: #C71585;">er</b>
 > n. 哲学家，思想家
+
+[volunt](_vol_.md)<b style="color: #C71585;">er</b>
+> n. 志愿者；志愿兵
+>
+> adj. 志愿的
+>
+> v. 自愿

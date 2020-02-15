@@ -22,3 +22,13 @@ re[sid](_sid_.md)<b style="color: #C71585;">ence</b>
 > n. 居住，住宅
 >
 > 另看词缀 [re-](re-.md)
+
+bene[vol](_vol_.md)<b style="color: #C71585;">ence</b>
+> n. 仁慈；善行
+>
+> 另看词缀 [bene-](bene-.md)
+
+male[vol](_vol_.md)<b style="color: #C71585;">ence</b>
+> n. 恶意，怨恨；狠毒
+>
+> 另看词缀 [male-](mal-.md)

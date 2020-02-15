@@ -7,5 +7,8 @@
 >
 > vi. 计算；出现；扮演角色
 
+<b style="color: #20B2AA;">fig</b>[ment](-ment.md)
+> n. 虚构的事；臆造的事物
+
 <b style="color: #20B2AA;">fict</b>[ion](-ion.md)
 > n. 小说；虚构，编造；谎言

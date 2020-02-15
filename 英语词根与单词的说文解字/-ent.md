@@ -23,3 +23,13 @@ pre[sid](_sid_.md)<b style="color: #C71585;">ent</b>
 > n. 总统，校长，董事长
 >
 > 另看词缀 [pre-](pre-.md)
+
+bene[vol](_vol_.md)<b style="color: #C71585;">ent</b>
+> adj. 仁慈的；慈善的；亲切的
+>
+> 另看词缀 [bene-](bene-.md)
+
+male[vol](_vol_.md)<b style="color: #C71585;">ent</b>
+> adj. 恶毒的；有恶意的；坏心肠的
+>
+> 另看词缀 [male-](mal-.md)

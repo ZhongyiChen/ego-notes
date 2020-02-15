@@ -41,3 +41,8 @@ in[vent](_ven_.md)<b style="color: #C71585;">ive</b>
 > adj. 发明的；有发明才能的，独出心裁的
 >
 > 另看词缀 [in-](in-.2.md)
+
+[vol](_vol_.md)it<b style="color: #C71585;">ive</b>
+> adj. 意志的；表示意志的；发自意志的
+>
+> -itive = [-ite](-ite.md) + -ive
