@@ -23,3 +23,15 @@
 > adj. 志愿的
 >
 > v. 自愿
+
+call<b style="color: #C71585;">er</b>
+> n. 访客；呼叫者；打电话者；召集员
+>
+> adj. 新鲜的
+>
+> 单词 call —— v. 呼叫；称呼；召集
+
+invit<b style="color: #C71585;">er</b>
+> n. 邀请者
+>
+> 单词 invite —— vt. 邀请，招待；招致
