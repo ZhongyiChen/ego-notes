@@ -67,3 +67,8 @@ per[enn](_ann_.md)i<b style="color: #C71585;">al</b>
 > vt. 标志；用信号通知，发信号
 >
 > adj. 显著的，作为信号的
+
+[norm](_norm_.md)<b style="color: #C71585;">al</b>
+> adj. 正常的；正规的，标准的
+>
+> n. 正常；标准；常态

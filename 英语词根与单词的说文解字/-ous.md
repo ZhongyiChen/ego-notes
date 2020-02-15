@@ -48,3 +48,8 @@ ad[vent](_ven_.md)ur<b style="color: #C71585;">ous</b>
 > -urous = [-ure](-ure.md) + -ous
 >
 > 另看词缀 [ad-](ad-.md)
+
+e[norm](_norm_.md)<b style="color: #C71585;">ous</b>
+> adj. 庞大的，巨大的；凶暴的，极恶的
+>
+> 另看词缀 [e-](ex-.md)

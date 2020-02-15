@@ -35,3 +35,8 @@ im[mob](_mov_.md)il<b style="color: #C71585;">ize</b>
 > vt. 认出，识别，承认
 >
 > 另看词缀 [co-](com-.md)
+
+[norm](_norm_.md)al<b style="color: #C71585;">ize</b>
+> vt. 使正常化；使规格化，使标准化
+>
+> -alize = [-al](-al.md) + -ize
