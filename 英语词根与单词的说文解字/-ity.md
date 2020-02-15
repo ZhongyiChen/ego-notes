@@ -67,3 +67,8 @@ in[trep](_trem_.md)id<b style="color: #C71585;">ity</b>
 > n. 无畏，大胆
 >
 > 另看词缀 [in-](in-.1.md) 和 [-id](-id.md)
+
+[maj](_magn_.md)or<b style="color: #C71585;">ity</b>
+> n. 多数；成年
+>
+> 单词 major —— adj. 主要的；重要的；主修的；较多的

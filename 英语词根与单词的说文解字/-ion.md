@@ -116,3 +116,6 @@ in[vent](_ven_.md)<b style="color: #C71585;">ion</b>
 
 [pact](_pact_.md)<b style="color: #C71585;">ion</b>
 > n. 短期的国际协定
+
+[fict](_fig_.md)<b style="color: #C71585;">ion</b>
+> n. 小说；虚构，编造；谎言

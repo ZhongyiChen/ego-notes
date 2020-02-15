@@ -5,6 +5,12 @@
 [alt](_alt_.md)<b style="color: #C71585;">ar</b>
 > n. (教堂、庙宇的)圣坛，祭坛
 
+[cel](_cel_.md)l<b style="color: #C71585;">ar</b>
+> n. (教堂、庙宇的)圣坛，祭坛
+> n. 地窖；酒窖；地下室
+>
+> vt. 把…藏入地窖
+
 [ann](_ann_.md)ul<b style="color: #C71585;">ar</b>
 > adj. 环的，环形的，有环纹的
 >

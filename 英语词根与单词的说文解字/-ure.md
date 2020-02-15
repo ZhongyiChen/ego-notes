@@ -17,3 +17,10 @@ ad[vent](_ven_.md)<b style="color: #C71585;">ure</b>
 > vt. 冒险；大胆说出
 >
 > 另看词缀 [ad-](ad-.md)
+
+[fig](_fig_.md)<b style="color: #C71585;">ure</b>
+> n. 数字；人物；图形；价格；(人的)体形；画像
+>
+> vt. 计算；认为；描绘；象征
+>
+> vi. 计算；出现；扮演角色
