@@ -72,3 +72,6 @@ in[trep](_trem_.md)id<b style="color: #C71585;">ity</b>
 > n. 多数；成年
 >
 > 单词 major —— adj. 主要的；重要的；主修的；较多的
+
+[dign](_dign_.md)<b style="color: #C71585;">ity</b>
+> n. 庄重；庄严，尊严，尊贵；高贵，高尚；自豪，自尊，自重

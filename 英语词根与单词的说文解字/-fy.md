@@ -9,3 +9,6 @@
 
 [sign](_sign_.md)<b style="color: #C71585;">ify</b>
 > vt. 表明，表示；意味着；有重要性
+
+[dign](_dign_.md)<b style="color: #C71585;">ify</b>
+> vt. 使显得威严, 使高贵, 使显赫
