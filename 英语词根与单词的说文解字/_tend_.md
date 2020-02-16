@@ -1,4 +1,4 @@
-# _tend_(_tent_/_tens_) [L] = to stretch/ to hold out/ to move in a certain direction
+# _tend_(_tens_) [L] = to stretch/ to hold out/ to move in a certain direction
 
 *stretch 本身除了有扩展、伸展的意思，也有夸大、滥用、歪曲等含义。*
 
