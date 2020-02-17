@@ -68,3 +68,10 @@ a[gnost](_gn_.md)<b style="color: #C71585;">ic</b>
 
 [pect](_pact_.md)<b style="color: #C71585;">ic</b>
 > adj. 果胶的，粘胶质的
+
+epi[dem](_dem_.md)<b style="color: #C71585;">ic</b>
+> adj. 流行性的；极为盛行的
+>
+> n. 流行病；(迅速的)泛滥，蔓延
+>
+> 另看词缀 [epi-](epi-.md)

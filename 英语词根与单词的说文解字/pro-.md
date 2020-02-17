@@ -9,3 +9,6 @@
 > v. 繁殖，繁衍；传播，传送
 >
 > 另看词缀 [-ate](-ate.md)
+
+<b style="color: #C71585;">pro</b>[logu](_log_.md)e
+> n. 序言；序幕；开场白

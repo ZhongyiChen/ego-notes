@@ -4,3 +4,6 @@
 
 <b style="color: #C71585;">ob</b>[nox](_noc_.md)i[ous](-ous.md)
 > adj. 极讨厌的，可憎的，令人作呕的
+
+<b style="color: #C71585;">ob</b>[tain](_tain_.md)
+> v. (尤指经努力)获得，赢得；存在；流行；沿袭
