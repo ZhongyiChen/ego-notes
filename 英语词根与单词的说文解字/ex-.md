@@ -31,3 +31,6 @@
 > adj. 庞大的，巨大的；凶暴的，极恶的
 >
 > 另看词缀 [-ous](-ous.md)
+
+<b style="color: #C71585;">ex</b>[cid](_cid_.md)e
+> v. 切去，切开，割掉

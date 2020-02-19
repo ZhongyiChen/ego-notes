@@ -63,3 +63,6 @@
 
 <b style="color: #C71585;">con</b>[ceal](_cel_.md)
 > vt. 隐藏；隐瞒
+
+<b style="color: #C71585;">con</b>[cis](_cid_.md)e
+> adj. 简明的，简练的，简洁的，简略的，简缩的

@@ -1,0 +1,1 @@
+# hom- [GK] = same/ equal/ like/ similar/ common
