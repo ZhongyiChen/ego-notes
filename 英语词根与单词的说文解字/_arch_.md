@@ -14,13 +14,13 @@
 [an](a-.2.md)<b style="color: #20B2AA;">arch</b>[ist](-ist.md)
 > n. 无政府主义者
 
-[mon](mon-.md)<b style="color: #20B2AA;">arch</b>
+[mon](_mon_.2.md)<b style="color: #20B2AA;">arch</b>
 > n. 君主，帝王
 
-[mon](mon-.md)<b style="color: #20B2AA;">arch</b>[y](-y.2.md)
+[mon](_mon_.2.md)<b style="color: #20B2AA;">arch</b>[y](-y.2.md)
 > n. 君主统治，君主制度
 
-[mon](mon-.md)<b style="color: #20B2AA;">arch</b>[ism](-ism.md)
+[mon](_mon_.2.md)<b style="color: #20B2AA;">arch</b>[ism](-ism.md)
 > n. 君主主义，君主政体
 
 [poly](poly-.md)<b style="color: #20B2AA;">arch</b>

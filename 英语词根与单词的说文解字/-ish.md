@@ -6,3 +6,8 @@
 > adj. 外行的，不熟练的
 >
 > -eur ≈ [-er](-er.md)
+
+[mon](_mon_.2.md)k<b style="color: #C71585;">ish</b>
+> adj. 修士(般)的，僧侣(般)的
+>
+> 单词 monk —— n. 僧侣，修道士，出家人

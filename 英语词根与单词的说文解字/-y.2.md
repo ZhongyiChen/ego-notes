@@ -20,7 +20,7 @@ an[arch](_arch_.md)<b style="color: #C71585;">y</b>
 mon[arch](_arch_.md)<b style="color: #C71585;">y</b>
 > n. 君主统治，君主制度
 >
-> 另看词缀 [mon-](mon-.md)
+> 另看词根 [_mon_](_mon_.2.md)
 
 [arm](_arm_.md)<b style="color: #C71585;">y</b>
 > n. 军队，陆军

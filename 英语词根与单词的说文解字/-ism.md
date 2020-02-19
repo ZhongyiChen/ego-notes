@@ -22,7 +22,7 @@ an[arch](_arch_.md)<b style="color: #C71585;">ism</b>
 mon[arch](_arch_.md)<b style="color: #C71585;">ism</b>
 > n. 君主主义，君主政体
 >
-> 另看词缀 [mon-](mon-.md)
+> 另看词根 [_mon_](_mon_.2.md)
 
 al[arm](_arm_.md)<b style="color: #C71585;">ism</b>
 > n. 惊扰旁人，大惊小怪
@@ -40,3 +40,6 @@ al[arm](_arm_.md)<b style="color: #C71585;">ism</b>
 
 [soph](_soph_.md)<b style="color: #C71585;">ism</b>
 > n. n. 诡辩，似是而非的论点
+
+[mon](_mon_.2.md)<b style="color: #C71585;">ism</b>
+> n. [哲]一元论
