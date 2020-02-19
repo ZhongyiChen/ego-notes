@@ -8,3 +8,15 @@ anti<b style="color: #20B2AA;">cip</b>at[ory](-ory.md)
 
 anti<b style="color: #20B2AA;">cip</b>at[ion](-ion.md)
 > n. 预期，预料，预料的事物
+
+[ex](ex-.md)<b style="color: #20B2AA;">cept</b>
+> vt. 除，除外
+>
+> vi. 反对
+>
+> prep. 除了...之外，若不是，除非
+>
+> conj. 只是
+
+[ex](ex-.md)<b style="color: #20B2AA;">cept</b>[ion](-ion.md)
+> n. 例外，除外，异议

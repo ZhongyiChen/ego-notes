@@ -124,3 +124,8 @@ in[vent](_ven_.md)<b style="color: #C71585;">ion</b>
 > n. 意志，意志力；决断力
 >
 > -ition = [-ite](-ite.md) + -ion
+
+ex[cept](_cap_.md)<b style="color: #C71585;">ion</b>
+> n. 例外，除外，异议
+>
+> 另看词缀 [ex-](ex-.md)

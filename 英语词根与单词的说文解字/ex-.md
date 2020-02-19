@@ -34,3 +34,12 @@
 
 <b style="color: #C71585;">ex</b>[cid](_cid_.md)e
 > v. 切去，切开，割掉
+
+<b style="color: #C71585;">ex</b>[cept](_cap_.md)
+> vt. 除，除外
+>
+> vi. 反对
+>
+> prep. 除了...之外，若不是，除非
+>
+> conj. 只是
