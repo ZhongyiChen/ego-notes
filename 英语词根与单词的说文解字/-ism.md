@@ -43,3 +43,8 @@ al[arm](_arm_.md)<b style="color: #C71585;">ism</b>
 
 [mon](_mon_.2.md)<b style="color: #C71585;">ism</b>
 > n. [哲]一元论
+
+[sur](sur-.md)real<b style="color: #C71585;">ism</b>
+> n. 超现实主义
+>
+> 单词 real —— adj. 真实的，真的 adv. 非常，很 n. 实在，现实，实数
