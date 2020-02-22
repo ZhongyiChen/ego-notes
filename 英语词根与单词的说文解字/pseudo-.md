@@ -20,3 +20,8 @@
 > n. 伪科学，假科学
 >
 > 单词 science —— n. 科学，学问
+>
+> 另看词缀 [-ence](-ence.md)
+
+<b style="color: #C71585;">pseudo</b>[morph](_morph_.md)
+> n. 假象，伪形
