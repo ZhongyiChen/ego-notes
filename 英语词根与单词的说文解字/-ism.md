@@ -5,14 +5,14 @@
 [act](_act_.md)ual<b style="color: #C71585;">ism</b>
 > n. 现实论，现实主义
 >
-> 可查看词缀 [-al](-al.md) 的意思
+> 另看词缀 [-al](-al.md)
 
 [agr](_agr_.md)arian<b style="color: #C71585;">ism</b>
 > n. 田地均分法，平均地权论
 >
 > 单词 argarian —— adj. 农业的，土地的
 >
-> 可查看词缀 [-arian](-arian.md) 的意思
+> 另看词缀 [-arian](-arian.md)
 
 an[arch](_arch_.md)<b style="color: #C71585;">ism</b>
 > n. 无政府主义
@@ -39,7 +39,7 @@ al[arm](_arm_.md)<b style="color: #C71585;">ism</b>
 > 另看词缀 [-ate](-ate.md)
 
 [soph](_soph_.md)<b style="color: #C71585;">ism</b>
-> n. n. 诡辩，似是而非的论点
+> n. 诡辩，似是而非的论点
 
 [mon](_mon_.2.md)<b style="color: #C71585;">ism</b>
 > n. [哲]一元论

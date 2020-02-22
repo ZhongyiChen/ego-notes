@@ -3,4 +3,4 @@
 ad[ult](_ult_.md)<b style="color: #C71585;">hood</b>
 > n. 成人期，成年期
 >
-> 另可查看词缀 [ad-](ad-.md)
+> 另看词缀 [ad-](ad-.md)
