@@ -34,3 +34,8 @@ ana[log](_log_.md)<b style="color: #C71585;">y</b>
 
 [phil](phil-.md)o[soph](_soph_.md)<b style="color: #C71585;">y</b>
 > n. 哲学，人生观，冷静
+
+pseudo[log](_log_.md)<b style="color: #C71585;">y</b>
+> n. 谎话，说谎
+>
+> 另看词缀 [pseudo-](pseudo-.md)

@@ -12,3 +12,6 @@
 
 [epi](epi-.md)<b style="color: #20B2AA;">logu</b>e
 > n. (剧本、书籍、电影等的)收场白，尾声，后记，跋
+
+[pseudo](pseudo-.md)<b style="color: #20B2AA;">log</b>[y](-y.2.md)
+> n. 谎话，说谎
