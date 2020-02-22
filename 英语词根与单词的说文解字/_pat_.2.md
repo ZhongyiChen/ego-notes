@@ -28,3 +28,6 @@
 
 [com](com-.md)<b style="color: #20B2AA;">pat</b>[ible](-able.md)
 > adj. 一致的，可并立的，适合的
+
+[tele](tele-.md)<b style="color: #20B2AA;">pathy</b>
+> n. 传心术，通灵术，心灵感应

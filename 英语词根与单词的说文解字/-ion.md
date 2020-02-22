@@ -129,3 +129,8 @@ ex[cept](_cap_.md)<b style="color: #C71585;">ion</b>
 > n. 例外，除外，异议
 >
 > 另看词缀 [ex-](ex-.md)
+
+tele[vis](_vid_.md)<b style="color: #C71585;">ion</b>
+> n. 电视机；电视节目，电视；电视系统；电视学，电视广播业
+>
+> 另看词缀 [tele-](tele-.md)
