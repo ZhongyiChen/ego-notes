@@ -33,3 +33,8 @@ male[vol](_vol_.md)<b style="color: #C71585;">ent</b>
 > adj. 恶毒的；有恶意的；坏心肠的
 >
 > 另看词缀 [male-](mal-.md)
+
+omni[sci](_sci_.md)<b style="color: #C71585;">ent</b>
+> n. 无知，不可知论
+>
+> 另看词缀 [omni-](omni-.md)

@@ -24,3 +24,6 @@
 > adj. 下意识的，潜意识的
 >
 > n. 下意识，潜意识
+
+[omni](omni-.md)<b style="color: #20B2AA;">sci</b>[ent](-ent.md)
+> adj. 无所不知的，全知全能的；博闻广识的
