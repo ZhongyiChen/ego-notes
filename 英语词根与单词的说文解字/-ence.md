@@ -32,3 +32,16 @@ male[vol](_vol_.md)<b style="color: #C71585;">ence</b>
 > n. 恶意，怨恨；狠毒
 >
 > 另看词缀 [male-](mal-.md)
+
+[sci](_sci_.md)<b style="color: #C71585;">ence</b>
+> n. 科学，学问
+
+con[sci](_sci_.md)<b style="color: #C71585;">ence</b>
+> n. 良心，良知；内疚，愧疚，凭良心
+>
+> 另看词缀 [con-](com-.md)
+
+pre[sci](_sci_.md)<b style="color: #C71585;">ence</b>
+> n. 预知，先知；先见之明
+>
+> 另看词缀 [pre-](pre-.md)

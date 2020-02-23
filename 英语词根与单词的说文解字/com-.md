@@ -66,3 +66,13 @@
 
 <b style="color: #C71585;">con</b>[cis](_cid_.md)e
 > adj. 简明的，简练的，简洁的，简略的，简缩的
+
+<b style="color: #C71585;">con</b>[sci](_sci_.md)ence
+> n. 良心，良知；内疚，愧疚，凭良心
+>
+> 另看词缀 [-ence](-ence.md)
+
+<b style="color: #C71585;">con</b>[sci](_sci_.md)ous
+> adj. 神志清醒的，有知觉的，有意识的，慎重的，有意的，刻意的
+>
+> 另看词缀 [-ous](-ous.md)

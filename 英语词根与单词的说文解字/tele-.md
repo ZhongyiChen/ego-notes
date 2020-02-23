@@ -1,6 +1,6 @@
 # tele-(tel-) [GK] = far
 
-*值得注意的是，tele- 也可以看成词根 _tele_，它们是同一个意思。*
+*由于电子产品大量使用了本词缀，因此 tele- 后来引申为 "电/电子"。值得注意的是，tele- 也可以看成词根 _tele_，它们是同一个意思。*
 
 <b style="color: #C71585;">tele</b>[graph](_graph_.md)
 > n. 电报(通信方式)

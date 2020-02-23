@@ -16,7 +16,7 @@
 >
 > 另看词缀 [-y](-y.2.md)
 
-<b style="color: #C71585;">pseudo</b>science
+<b style="color: #C71585;">pseudo</b>[sci](_sci_.md)ence
 > n. 伪科学，假科学
 >
 > 单词 science —— n. 科学，学问

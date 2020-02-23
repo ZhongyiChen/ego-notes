@@ -53,3 +53,8 @@ e[norm](_norm_.md)<b style="color: #C71585;">ous</b>
 > adj. 庞大的，巨大的；凶暴的，极恶的
 >
 > 另看词缀 [e-](ex-.md)
+
+con[sci](_sci_.md)<b style="color: #C71585;">ous</b>
+> adj. 神志清醒的，有知觉的，有意识的，慎重的，有意的，刻意的
+>
+> 另看词缀 [con-](com-.md)

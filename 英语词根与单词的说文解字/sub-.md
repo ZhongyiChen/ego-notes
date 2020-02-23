@@ -18,3 +18,10 @@
 
 <b style="color: #C71585;">sub</b>[sum](_sum_.1.md)e
 > vt. 把……归入；把……包括在内
+
+<b style="color: #C71585;">sub</b>con[sci](_sci_.md)ous
+> adj. 下意识的，潜意识的
+>
+> n. 下意识，潜意识
+>
+> 另看词缀 [con-](com-.md) 和 [-ous](-ous.md)
