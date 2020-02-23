@@ -75,3 +75,18 @@ epi[dem](_dem_.md)<b style="color: #C71585;">ic</b>
 > n. 流行病；(迅速的)泛滥，蔓延
 >
 > 另看词缀 [epi-](epi-.md)
+
+geo[morph](_morph_.md)<b style="color: #C71585;">ic</b>
+> adj. 地貌的；地球(面)形状的，形状像地球一样的
+>
+> 另看词根 [_geo_](_geo_.md)
+
+poly[morph](_morph_.md)<b style="color: #C71585;">ic</b>
+> adj. 多形的；多态的
+>
+> 另看词缀 [poly-](poly-.md)
+
+iso[morph](_morph_.md)<b style="color: #C71585;">ic</b>
+> adj. 同形的；同态的
+>
+> 另看词缀 [iso-](iso-.md)

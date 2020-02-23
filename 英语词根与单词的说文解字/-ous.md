@@ -58,3 +58,13 @@ con[sci](_sci_.md)<b style="color: #C71585;">ous</b>
 > adj. 神志清醒的，有知觉的，有意识的，慎重的，有意的，刻意的
 >
 > 另看词缀 [con-](com-.md)
+
+a[morph](_morph_.md)<b style="color: #C71585;">ous</b>
+> adj. 无固定形状的，不规则的；无组织的
+>
+> 另看词缀 [a-](a-.2.md)
+
+anthrop[morph](_morph_.md)<b style="color: #C71585;">ous</b>
+> adj. 人形的；人格化的，拟人化的
+>
+> 另看词根 [_anthrop_](_anthrop_.md)

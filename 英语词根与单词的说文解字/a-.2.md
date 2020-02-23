@@ -16,3 +16,8 @@
 > n. 不可知论者
 >
 > 另看词缀 [-ic](-ic.md)
+
+<b style="color: #C71585;">a</b>[morph](_morph_.md)ous
+> adj. 无固定形状的，不规则的；无组织的
+>
+> 另看词缀 [-ous](-ous.md)

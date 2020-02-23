@@ -8,6 +8,9 @@
 [con](com-.md)<b style="color: #20B2AA;">sci</b>[ence](-ence.md)
 > n. 良心，良知；内疚，愧疚，凭良心
 
+[ne](ne-.md)<b style="color: #20B2AA;">sci</b>[ence](-ence.md)
+> n. 无知，不可知论
+
 [pre](pre-.md)<b style="color: #20B2AA;">sci</b>[ence](-ence.md)
 > n. 预知，先知；先见之明
 

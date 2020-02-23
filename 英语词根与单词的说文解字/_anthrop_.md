@@ -36,3 +36,8 @@
 > 另看词根 [_tom_](_tom_.md)
 >
 > 可认为 tomy = anatomy
+
+<b style="color: #20B2AA;">anthrop</b>o[morph](_morph_.md)ous
+> adj. 人形的；人格化的，拟人化的
+>
+> 另看词缀 [-ous](-ous.md)
