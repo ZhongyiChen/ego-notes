@@ -17,6 +17,9 @@
 <b style="color: #20B2AA;">acr</b>i[mony](-mony.md)
 > n. (言语、态度等的)尖刻，讥讽，辛辣，激烈
 
+<b style="color: #20B2AA;">acr</b>[onym](_onym_.md)
+> n. 首字母缩略词
+
 <b style="color: #20B2AA;">acu</b>[ity](-ity.md)
 > n. 尖锐，(疾病的)剧烈，(视力、才智等的)敏锐
 

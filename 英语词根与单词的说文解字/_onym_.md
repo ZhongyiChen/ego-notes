@@ -5,3 +5,6 @@
 
 [syn](sym-.md)<b style="color: #20B2AA;">onym</b>
 > n. 同义词
+
+[acr](_ac_.md)<b style="color: #20B2AA;">onym</b>
+> n. 首字母缩略词
