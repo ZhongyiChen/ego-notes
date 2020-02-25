@@ -72,3 +72,8 @@ per[enn](_ann_.md)i<b style="color: #C71585;">al</b>
 > adj. 正常的；正规的，标准的
 >
 > n. 正常；标准；常态
+
+[cas](_cad_.md)u<b style="color: #C71585;">al</b>
+> adj. 不经意的，无忧无虑的，漫不经心的，不在乎的，马虎的，疏忽的，随便的
+>
+> n. 便装，便鞋；临时工

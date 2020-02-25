@@ -35,6 +35,11 @@ male[vol](_vol_.md)<b style="color: #C71585;">ent</b>
 > 另看词缀 [male-](mal-.md)
 
 omni[sci](_sci_.md)<b style="color: #C71585;">ent</b>
-> n. 无知，不可知论
+> adj. 无所不知的，全知全能的；博闻广识的
 >
 > 另看词缀 [omni-](omni-.md)
+
+in[cid](_cad_.md)<b style="color: #C71585;">ent</b>
+> n. 发生的事情(尤指不寻常的或讨厌的)；严重事件，暴力事件(如犯罪、事故、袭击等)；(两国间的)摩擦，冲突；(常指)军事冲突
+>
+> 另看词缀 [in-](in-.2.md)
