@@ -12,3 +12,8 @@
 
 <b style="color: #C71585;">inter</b>[ven](_ven_.md)e
 > vi. 干涉；调停；插入
+
+<b style="color: #C71585;">intel</b>[lig](_lect_.md)ent
+> adj. 聪明的，智能的，了解的
+>
+> 另看词缀 [-ent](-ent.md)

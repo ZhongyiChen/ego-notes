@@ -50,3 +50,8 @@ ne[sci](_sci_.md)<b style="color: #C71585;">ence</b>
 > n. 无知，不可知论
 >
 > 另看词缀 [ne-](ne-.md)
+
+intel[lig](_lect_.md)<b style="color: #C71585;">ence</b>
+> n. 智力，才智，智慧；(尤指关于敌对国家的)情报，情报人员
+>
+> 另看词缀 [intel-](inter-.md)

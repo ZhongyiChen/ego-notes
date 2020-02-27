@@ -43,3 +43,8 @@ in[cid](_cad_.md)<b style="color: #C71585;">ent</b>
 > n. 发生的事情(尤指不寻常的或讨厌的)；严重事件，暴力事件(如犯罪、事故、袭击等)；(两国间的)摩擦，冲突；(常指)军事冲突
 >
 > 另看词缀 [in-](in-.2.md)
+
+intel[lig](_lect_.md)<b style="color: #C71585;">ent</b>
+> adj. 聪明的，智能的，了解的
+>
+> 另看词缀 [intel-](inter-.md)
