@@ -25,3 +25,10 @@ dis[arm](_arm_.md)a<b style="color: #C71585;">ment</b>
 
 [fig](_fig_.md)<b style="color: #C71585;">ment</b>
 > n. 虚构的事；臆造的事物
+
+im[ple](_ple_.md)<b style="color: #C71585;">ment</b>
+> v. 使生效，贯彻，执行，实施
+>
+> n. 工具，器具，(常指)简单的户外用具
+>
+> 另看词缀 [im-](in-.2.md)

@@ -75,3 +75,12 @@ in[trep](_trem_.md)id<b style="color: #C71585;">ity</b>
 
 [dign](_dign_.md)<b style="color: #C71585;">ity</b>
 > n. 庄重；庄严，尊严，尊贵；高贵，高尚；自豪，自尊，自重
+
+[plen](_ple_.md)<b style="color: #C71585;">ty</b>
+> n. 富裕，充裕
+>
+> adv. 大量，很多，足够有余，非常，十分，很
+>
+> pron. 大量，众多，充足
+>
+> 注: 本人认为 plenty = _plent_ + [-y](-y.2.md) 会更好
