@@ -84,3 +84,13 @@ oxy[gen](_gen_.md)<b style="color: #C71585;">ate</b>
 > vt. 氧合，充氧
 >
 > 另看词根 [_oxy_](_oxy_.md)
+
+[termin](_term_.md)<b style="color: #C71585;">ate</b>
+> v. 使结束，使停止，使终止
+>
+> adj. 有结尾的，(可)结束的
+
+ex[termin](_term_.md)<b style="color: #C71585;">ate</b>
+> vt. 扑灭，消灭，根绝
+>
+> 另看词缀 [ex-](ex-.md)

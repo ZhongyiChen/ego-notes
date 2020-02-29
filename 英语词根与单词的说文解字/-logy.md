@@ -22,3 +22,6 @@
 
 [morph](_morph_.md)o<b style="color: #C71585;">logy</b>
 > n. 形态学，形态论；词法
+
+[termin](_term_.md)o<b style="color: #C71585;">logy</b>
+> n. 术语，术语学

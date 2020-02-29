@@ -58,3 +58,8 @@
 > adj. 外生的
 >
 > 另看词缀 [-ous](-ous.md)
+
+<b style="color: #C71585;">ex</b>[termin](_term_.md)ate
+> vt. 扑灭，消灭，根绝
+>
+> 另看词缀 [-ate](-ate.md)

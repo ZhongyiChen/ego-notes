@@ -32,3 +32,6 @@
 
 <b style="color: #C71585;">de</b>[cid](_cid_.md)e
 > v. 对…作出抉择，决定，选定；裁决，判决；影响(或决定)…的结果
+
+<b style="color: #C71585;">de</b>[termin](_term_.md)e
+> v. 决定，决心
