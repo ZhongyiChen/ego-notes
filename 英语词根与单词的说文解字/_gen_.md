@@ -49,3 +49,6 @@
 
 [photo](_phot_.md)<b style="color: #20B2AA;">gen</b>[ic](-ic.md)
 > adj. 发光的，由于光而产生的；适宜于拍照的，拍照效果好的，特别上镜的，上照的
+
+[ex](ex-.md)o<b style="color: #20B2AA;">gen</b>[ous](-ous.md)
+> adj. 外生的

@@ -86,3 +86,6 @@ oxy[gen](_gen_.md)<b style="color: #C71585;">ous</b>
 > adj. 氧气的，产生氧气的，含氧的
 >
 > 另看词根 [_oxy_](_oxy_.md)
+
+[ex](ex-.md)o[gen](_gen_.md)<b style="color: #C71585;">ous</b>
+> adj. 外生的

@@ -53,3 +53,8 @@
 
 <b style="color: #C71585;">e</b>[xecut](_sequ_.md)e
 > vt. 执行，实行，完成，处死，制成
+
+<b style="color: #C71585;">ex</b>o[gen](_gen_.md)ous
+> adj. 外生的
+>
+> 另看词缀 [-ous](-ous.md)
