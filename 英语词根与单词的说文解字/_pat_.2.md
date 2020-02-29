@@ -1,4 +1,4 @@
-# _pat_(_path_/_pathy_/_pass_) [GK] = to feel/ to suffer
+# _pat_(_path_/_pathy_/_pass_) [GK] = to feel/ to suffer; feeling/ disease
 
 *当 _path_ 与 -y 相邻时，应当把它们当作一个整体 _pathy_ 看待，意为 feeling 或 disease 。*
 
@@ -31,3 +31,13 @@
 
 [tele](tele-.md)<b style="color: #20B2AA;">pathy</b>
 > n. 传心术，通灵术，心灵感应
+
+<b style="color: #20B2AA;">path</b>o[gen](_gen_.md)
+> n. 病原体
+
+<b style="color: #20B2AA;">path</b>o[gen](_gen_.md)ic
+> adj. 致病的，成为病原的，病原的
+>
+> 另看词缀 [-ic](-ic.md)
+>
+> 注: 也可把 _patho_ 看成一个整体

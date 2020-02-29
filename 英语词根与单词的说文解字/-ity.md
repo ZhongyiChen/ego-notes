@@ -84,3 +84,8 @@ in[trep](_trem_.md)id<b style="color: #C71585;">ity</b>
 > pron. 大量，众多，充足
 >
 > 注: 本人认为 plenty = _plent_ + [-y](-y.2.md) 会更好
+
+[gener](_gen_.md)<b style="color: #C71585;">osity</b>
+> n. 慷慨，宽大
+>
+> -osity = [-ous](-ous.md) + [-ity](-ity.md)

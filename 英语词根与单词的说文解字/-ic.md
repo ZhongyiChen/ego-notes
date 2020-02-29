@@ -90,3 +90,29 @@ iso[morph](_morph_.md)<b style="color: #C71585;">ic</b>
 > adj. 同形的；同态的
 >
 > 另看词缀 [iso-](iso-.md)
+
+[gen](_gen_.md)<b style="color: #C71585;">ic</b>
+> adj. 基因的
+
+[_mono_](_mon_.2.md)gen<b style="color: #C71585;">ic</b>
+> adj. 单基因的
+>
+> 另看词根 [_gen_](_gen_.md)
+
+[oxy](_oxy_.md)gen<b style="color: #C71585;">ic</b>
+> adj. 含氧的
+>
+> 另看词根 [_gen_](_gen_.md)
+
+[path](_pat_.2.md)o[gen](_gen_.md)<b style="color: #C71585;">ic</b>
+> adj. 致病的，成为病原的，病原的
+
+[phono](_phon_.md)gen<b style="color: #C71585;">ic</b>
+> adj. 音响效果好的
+>
+> 另看词根 [_gen_](_gen_.md)
+
+[photo](_phot_.md)gen<b style="color: #C71585;">ic</b>
+> adj. 发光的，由于光而产生的；适宜于拍照的，拍照效果好的，特别上镜的，上照的
+>
+> 另看词根 [_gen_](_gen_.md)

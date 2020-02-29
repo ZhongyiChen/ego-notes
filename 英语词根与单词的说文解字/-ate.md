@@ -1,4 +1,4 @@
-# -ate [L] = of ~/ having ~/ like ~/ to become ~/ to cause to be ~/ to produce ~/ to treat with ~/ to combine with ~/ salt made from ~/ indicate person/ indicate general name
+# -ate [L] = of ~/ having ~/ like ~; to become ~/ to cause to be ~/ to produce ~/ to treat with ~/ to combine with ~; salt made from ~; indicate person/ indicate general name
 
 [act](_act_.md)<b style="color: #C71585;">ate</b>
 > vt. 使活动，触发，开动，启动，激活
@@ -76,3 +76,11 @@ pro[pag](_pact_.md)<b style="color: #C71585;">ate</b>
 > v. 繁殖，繁衍；传播，传送
 >
 > 另看词缀 [pro-](pro-.md)
+
+[gener](_gen_.md)<b style="color: #C71585;">ate</b>
+> vt. 产生，发生，导致
+
+oxy[gen](_gen_.md)<b style="color: #C71585;">ate</b>
+> vt. 氧合，充氧
+>
+> 另看词根 [_oxy_](_oxy_.md)

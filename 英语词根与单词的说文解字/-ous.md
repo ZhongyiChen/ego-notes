@@ -73,3 +73,16 @@ ob[sequ](_sequ_.md)i<b style="color: #C71585;">ous</b>
 > adj. 谄媚的，巴结奉迎的
 >
 > 另看词缀 [ob-](ob-.md)
+
+[gener](_gen_.md)<b style="color: #C71585;">ous</b>
+> adj. 慷慨的，有雅量的，大量的，丰富的
+
+homo[gene](_gen_.md)<b style="color: #C71585;">ous</b>
+> adj. 同种的，同质的，齐性的
+>
+> 另看词缀 [homo](hom-.2.md)
+
+oxy[gen](_gen_.md)<b style="color: #C71585;">ous</b>
+> adj. 氧气的，产生氧气的，含氧的
+>
+> 另看词根 [_oxy_](_oxy_.md)
