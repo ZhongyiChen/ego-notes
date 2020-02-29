@@ -51,3 +51,6 @@
 > n. 工具，器具，(常指)简单的户外用具
 >
 > 另看词缀 [-ment](-ment.md)
+
+<b style="color: #C71585;">in</b>[fect](_fic_.md)
+> vt. 传染，感染

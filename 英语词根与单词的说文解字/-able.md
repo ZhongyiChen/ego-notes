@@ -20,3 +20,8 @@ com[pat](_pat_.2.md)<b style="color: #C71585;">ible</b>
 > adj. 一致的，可并立的，适合的
 >
 > 另看词缀 [com-](com-.md)
+
+in[feas](_fic_.md)<b style="color: #C71585;">ible</b>
+> adj. 不可实行的
+>
+> 另看词缀 [in-](in-.1.md)

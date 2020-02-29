@@ -53,3 +53,8 @@
 > adj. 无知的，愚昧的
 >
 > 另看词缀 [-ant](-ant.md)
+
+<b style="color: #C71585;">in</b>[feas](_fic_.md)ible
+> adj. 不可实行的
+>
+> 另看词缀 [-ible](-able.md)

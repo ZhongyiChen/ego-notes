@@ -35,3 +35,8 @@
 
 <b style="color: #C71585;">de</b>[termin](_term_.md)e
 > v. 决定，决心
+
+<b style="color: #C71585;">de</b>[fect](_fic_.md)
+> n. 缺点，缺陷，毛病
+>
+> v. 背叛，叛变，投敌

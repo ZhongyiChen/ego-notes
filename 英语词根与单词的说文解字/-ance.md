@@ -6,3 +6,6 @@ i[gnor](_gn_.md)<b style="color: #C71585;">ance</b>
 > n. 无知，愚昧；不知，不懂
 >
 > 另看词缀 [i-](in-.1.md)
+
+[feas](_fic_.md)<b style="color: #C71585;">ance</b>
+> n. 履行

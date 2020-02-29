@@ -12,3 +12,10 @@
 
 <b style="color: #C71585;">per</b>[secut](_sequ_.md)e
 > vt. 迫害，虐待，困扰，给...捣乱
+
+<b style="color: #C71585;">per</b>[fect](_fic_.md)
+> n. 完成时
+>
+> adj. 完美的，完好的，理想的，熟练的，精确的，完成式的
+>
+> vt. 使完美，修改，使精通，改善，使熟练

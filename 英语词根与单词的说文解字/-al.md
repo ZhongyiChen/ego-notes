@@ -82,3 +82,6 @@ per[enn](_ann_.md)i<b style="color: #C71585;">al</b>
 > n. 终端机，终点，末端，极限，终点站
 >
 > adj. 终点的，定期的，致死的，结尾的，末端的，晚期的
+
+[art](_art_.md)i[fic](_fic_.md)i<b style="color: #C71585;">al</b>
+> adj. 人工的，人造的，假的；人为的，非自然的；虚假的，假装的

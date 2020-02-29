@@ -11,3 +11,10 @@ i[gnor](_gn_.md)<b style="color: #C71585;">ant</b>
 > adj. 无知的，愚昧的
 >
 > 另看词缀 [i-](in-.1.md)
+
+mal[feas](_fic_.md)<b style="color: #C71585;">ant</b>
+> adj. 渎职的，违法乱纪的，犯罪的
+>
+> n. 渎职者，违法乱纪者，犯罪者
+>
+> 另看词缀 [mal-](mal-.md)

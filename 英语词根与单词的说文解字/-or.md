@@ -39,3 +39,8 @@
 > n. 市长
 >
 > 来自法语的 major 的写法，可将 _may_ 看成 _maj_ 的变体
+
+bene[fect](_fic_.md)<b style="color: #C71585;">or</b>
+> n. 施主，捐款人，赞助人
+>
+> 另看词缀 [bene-](bene-.md)

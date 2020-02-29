@@ -65,3 +65,6 @@ sub[sequ](_sequ_.md)<b style="color: #C71585;">ent</b>
 > adj. 后来的，接下去的
 >
 > 另看词缀 [sub-](sub-.md)
+
+[magn](_magn_.md)i[fic](_fic_.md)<b style="color: #C71585;">ent</b>
+> adj. 华丽的，高尚的，宏伟的

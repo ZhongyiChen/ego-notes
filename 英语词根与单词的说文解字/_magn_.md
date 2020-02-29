@@ -13,6 +13,11 @@
 <b style="color: #20B2AA;">magn</b>[itude](-itude.md)
 > n. 震级，巨大，重大，重要性
 
+<b style="color: #20B2AA;">magn</b>i[fic](_fic_.md)ent
+> adj. 华丽的，高尚的，宏伟的
+>
+> 另看词缀 [-ent](-ent.md)
+
 <b style="color: #20B2AA;">maj</b>[or](-or.md)
 > adj. 主要的；重要的；主修的；较多的
 >

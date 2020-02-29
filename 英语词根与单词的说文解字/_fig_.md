@@ -1,4 +1,4 @@
-# _fig_(_fict_) [L] = to form/ to shape/ to figure/ to make
+# _fig_(_fict_) [L] = to form/ to shape/ to figure
 
 <b style="color: #20B2AA;">fig</b>[ure](-ure.md)
 > n. 数字；人物；图形；价格；(人的)体形；画像

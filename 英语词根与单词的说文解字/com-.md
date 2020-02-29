@@ -1,6 +1,6 @@
 # com-(con-/col-/cor-/co-) [ME] = together/ with/ together with
 
-*其中，con- 主要出现在 c, d, j, n, q, s, t, v 等字母前；cor- 出现在 r 字母前；col 出现在 l 字母前；co- 主要出现在 g, h, w 及所有元音字母前；com- 本身则主要出现在 b, m, p 等字母前。*
+*其中，con- 主要出现在 c, d, j, n, q, s, t, v 等字母前；cor- 出现在 r 字母前；col 出现在 l 字母前；co- 主要出现在 g, h, w 及所有元音字母前；com- 本身则主要出现在 b, m, p 等字母前。此外，在字母 f 前应使用 con-，但由于历史原因，单词 "comfort" 例外。*
 
 <b style="color: #C71585;">com</b>[pass](_pat_.2.md)ion
 > n. 怜悯，同情
@@ -106,3 +106,8 @@
 > adj. 连续的，连贯的
 >
 > 另看词缀 [-ive](-ive.md)
+
+<b style="color: #C71585;">con</b>[fect](_fic_.md)
+> n. 糖果，蜜饯;
+>
+> v. 调制，配制，(尤指)混合调制；把…制成糖果
