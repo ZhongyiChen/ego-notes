@@ -9,3 +9,6 @@ peace<b style="color: #C71585;">ful</b>
 
 [arm](_arm_.md)<b style="color: #C71585;">ful</b>
 > n. 一抱之量
+
+[art](_art_.md)<b style="color: #C71585;">ful</b>
+> adj. 施展巧计的，精巧的，巧妙的；取巧的，狡猾的

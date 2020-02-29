@@ -16,3 +16,6 @@
 > adj. 毫无动机的
 >
 > 另看词缀 [-ive](-ive.md)
+
+[art](_art_.md)<b style="color: #C71585;">less</b>
+> adj. 天真的，直率的；缺乏艺术性的；拙劣的，粗笨的

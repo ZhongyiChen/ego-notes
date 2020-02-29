@@ -18,7 +18,7 @@
 > n. 施主，捐款人，赞助人
 
 [art](_art_.md)i<b style="color: #20B2AA;">fact</b>
-> n. 人工制品
+> n. 人工制品，手工艺品
 
 [af](ad-.md)<b style="color: #20B2AA;">fect</b>
 > v. 影响，侵袭，使感染，(感情上)深深打动，使悲伤(或怜悯等)
