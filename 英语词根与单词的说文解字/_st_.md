@@ -9,3 +9,6 @@
 > n. 代用品，代替者
 >
 > vt. 代替
+
+[as](ad-.md)<b style="color: #20B2AA;">sist</b>[ance](-ance.md)
+> n. 帮助，援助，支持

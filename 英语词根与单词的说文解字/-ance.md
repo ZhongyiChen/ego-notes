@@ -9,3 +9,8 @@ i[gnor](_gn_.md)<b style="color: #C71585;">ance</b>
 
 [feas](_fic_.md)<b style="color: #C71585;">ance</b>
 > n. 履行
+
+as[sist](_st_.md)<b style="color: #C71585;">ance</b>
+> n. 帮助，援助，支持
+>
+> 另看词缀 [as-](ad-.md)

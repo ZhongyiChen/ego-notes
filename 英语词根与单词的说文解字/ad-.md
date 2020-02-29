@@ -47,3 +47,8 @@
 
 <b style="color: #C71585;">af</b>[fect](_fic_.md)
 > v. 影响，侵袭，使感染，(感情上)深深打动，使悲伤(或怜悯等)
+
+<b style="color: #C71585;">as</b>[sist](_st_.md)ance
+> n. 帮助，援助，支持
+>
+> 另看词缀 [-ance](-ance.md)
