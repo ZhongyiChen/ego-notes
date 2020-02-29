@@ -25,3 +25,13 @@
 > n. 下意识，潜意识
 >
 > 另看词缀 [con-](com-.md) 和 [-ous](-ous.md)
+
+<b style="color: #C71585;">sub</b>[sequ](_sequ_.md)ence
+> n. 随后，后来，随后发生的事情
+>
+> 另看词缀 [-ence](-ence.md)
+
+<b style="color: #C71585;">sub</b>[sequ](_sequ_.md)ent
+> adj. 后来的，接下去的
+>
+> 另看词缀 [-ent](-ent.md)

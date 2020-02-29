@@ -9,3 +9,6 @@
 > adj.流动的；巡回工作的
 >
 > 另看词缀 [-etic](-ic.md)
+
+<b style="color: #C71585;">per</b>[secut](_sequ_.md)e
+> vt. 迫害，虐待，困扰，给...捣乱

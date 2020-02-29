@@ -68,3 +68,8 @@ anthrop[morph](_morph_.md)<b style="color: #C71585;">ous</b>
 > adj. 人形的；人格化的，拟人化的
 >
 > 另看词根 [_anthrop_](_anthrop_.md)
+
+ob[sequ](_sequ_.md)i<b style="color: #C71585;">ous</b>
+> adj. 谄媚的，巴结奉迎的
+>
+> 另看词缀 [ob-](ob-.md)

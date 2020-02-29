@@ -46,3 +46,8 @@ in[vent](_ven_.md)<b style="color: #C71585;">ive</b>
 > adj. 意志的；表示意志的；发自意志的
 >
 > -itive = [-ite](-ite.md) + -ive
+
+con[secut](_sequ_.md)<b style="color: #C71585;">ive</b>
+> adj. 连续的，连贯的
+>
+> 另看词缀 [con-](com-.md)

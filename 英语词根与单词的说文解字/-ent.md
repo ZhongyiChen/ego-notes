@@ -48,3 +48,20 @@ intel[lig](_lect_.md)<b style="color: #C71585;">ent</b>
 > adj. 聪明的，智能的，了解的
 >
 > 另看词缀 [intel-](inter-.md)
+
+[sequ](_sequ_.md)<b style="color: #C71585;">ent</b>
+> n. 后果，随之而来的事
+>
+> adj. 连续的，结果的
+
+con[sequ](_sequ_.md)<b style="color: #C71585;">ent</b>
+> adj. 作为结果的，合乎逻辑的
+>
+> n. 随后发生的事情，结果
+>
+> 另看词缀 [con-](com-.md)
+
+sub[sequ](_sequ_.md)<b style="color: #C71585;">ent</b>
+> adj. 后来的，接下去的
+>
+> 另看词缀 [sub-](sub-.md)

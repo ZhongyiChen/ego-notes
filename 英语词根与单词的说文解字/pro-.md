@@ -12,3 +12,6 @@
 
 <b style="color: #C71585;">pro</b>[logu](_log_.md)e
 > n. 序言；序幕；开场白
+
+<b style="color: #C71585;">pro</b>[secut](_sequ_.md)e
+> v. 告发，起诉，彻底进行，执行，从事 

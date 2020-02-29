@@ -55,3 +55,18 @@ intel[lig](_lect_.md)<b style="color: #C71585;">ence</b>
 > n. 智力，才智，智慧；(尤指关于敌对国家的)情报，情报人员
 >
 > 另看词缀 [intel-](inter-.md)
+
+[sequ](_sequ_.md)<b style="color: #C71585;">ence</b>
+> n. 序列，续发事件，顺序，连续
+>
+> vt. 按顺序排好
+
+con[sequ](_sequ_.md)<b style="color: #C71585;">ence</b>
+> n. 结果，重要性
+>
+> 另看词缀 [con-](com-.md)
+
+sub[sequ](_sequ_.md)<b style="color: #C71585;">ence</b>
+> n. 随后，后来，随后发生的事情
+>
+> 另看词缀 [sub-](sub-.md)

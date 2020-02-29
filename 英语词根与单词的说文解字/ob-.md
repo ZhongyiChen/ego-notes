@@ -7,3 +7,6 @@
 
 <b style="color: #C71585;">ob</b>[tain](_tain_.md)
 > v. (尤指经努力)获得，赢得；存在；流行；沿袭
+
+<b style="color: #C71585;">ob</b>[sequ](_sequ_.md)i[ous](-ous.md)
+> adj. 谄媚的，巴结奉迎的

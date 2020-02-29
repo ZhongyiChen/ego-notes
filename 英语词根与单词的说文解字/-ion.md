@@ -134,3 +134,8 @@ tele[vis](_vid_.md)<b style="color: #C71585;">ion</b>
 > n. 电视机；电视节目，电视；电视系统；电视学，电视广播业
 >
 > 另看词缀 [tele-](tele-.md)
+
+con[secut](_sequ_.md)<b style="color: #C71585;">ion</b>
+> n. 连续，推理，条理
+>
+> 另看词缀 [con-](com-.md)
