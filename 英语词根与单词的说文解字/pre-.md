@@ -37,3 +37,10 @@
 
 <b style="color: #C71585;">pre</b>[fect](_fic_.md)
 > n. 长官，地方行政长官，警察局长，学校院长，教务长
+
+<b style="color: #C71585;">pre</b>[lud](_lud_.md)e
+> n. 前奏，序幕，序诗，前奏曲
+>
+> vt. 作为...的开头
+>
+> vi. 作为前奏

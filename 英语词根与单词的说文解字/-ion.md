@@ -139,3 +139,8 @@ con[secut](_sequ_.md)<b style="color: #C71585;">ion</b>
 > n. 连续，推理，条理
 >
 > 另看词缀 [con-](com-.md)
+
+al[lus](_lud_.md)<b style="color: #C71585;">ion</b>
+> n. 提及，暗指
+>
+> 另看词缀 [al-](ad-.md)

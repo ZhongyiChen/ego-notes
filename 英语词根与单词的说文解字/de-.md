@@ -40,3 +40,9 @@
 > n. 缺点，缺陷，毛病
 >
 > v. 背叛，叛变，投敌
+
+<b style="color: #C71585;">de</b>[ceiv](_cap_.md)e
+> v. 欺骗，行骗
+
+<b style="color: #C71585;">de</b>[lud](_lud_.md)e
+> vt. 迷惑，蛊惑

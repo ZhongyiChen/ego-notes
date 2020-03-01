@@ -51,3 +51,8 @@ con[secut](_sequ_.md)<b style="color: #C71585;">ive</b>
 > adj. 连续的，连贯的
 >
 > 另看词缀 [con-](com-.md)
+
+al[lus](_lud_.md)<b style="color: #C71585;">ive</b>
+> adj. 暗指的，引用典故的
+>
+> 另看词缀 [al-](ad-.md)

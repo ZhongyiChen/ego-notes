@@ -111,3 +111,11 @@
 > n. 糖果，蜜饯;
 >
 > v. 调制，配制，(尤指)混合调制；把…制成糖果
+
+<b style="color: #C71585;">con</b>[ceiv](_cap_.md)e
+> vt. 构思，认为
+>
+> vi. 怀孕
+
+<b style="color: #C71585;">col</b>[lud](_lud_.md)e
+> vi. 共谋，串通，勾结

@@ -116,3 +116,6 @@ iso[morph](_morph_.md)<b style="color: #C71585;">ic</b>
 > adj. 发光的，由于光而产生的；适宜于拍照的，拍照效果好的，特别上镜的，上照的
 >
 > 另看词根 [_gen_](_gen_.md)
+
+[lud](_lud_.md)<b style="color: #C71585;">ic</b>
+> adj. 顽皮的，好开玩笑的

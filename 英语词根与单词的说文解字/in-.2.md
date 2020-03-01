@@ -54,3 +54,6 @@
 
 <b style="color: #C71585;">in</b>[fect](_fic_.md)
 > vt. 传染，感染
+
+<b style="color: #C71585;">il</b>[lud](_lud_.md)e
+> vt. 欺骗
