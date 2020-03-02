@@ -22,3 +22,6 @@
 
 <b style="color: #C71585;">per</b>[ceiv](_cap_.md)e
 > vt. 感觉，认知，理解，意思到
+
+<b style="color: #C71585;">per</b>[sist](_st_.md)
+> vi. 坚持，固执，持续，坚称

@@ -57,3 +57,6 @@
 
 <b style="color: #C71585;">il</b>[lud](_lud_.md)e
 > vt. 欺骗
+
+<b style="color: #C71585;">in</b>[sist](_st_.md)
+> v. 坚持，坚决主张，强调

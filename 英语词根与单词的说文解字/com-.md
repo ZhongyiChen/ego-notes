@@ -119,3 +119,6 @@
 
 <b style="color: #C71585;">col</b>[lud](_lud_.md)e
 > vi. 共谋，串通，勾结
+
+<b style="color: #C71585;">con</b>[sist](_st_.md)
+> vi. 组成，存在于，一致

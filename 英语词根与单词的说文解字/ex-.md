@@ -71,3 +71,6 @@
 
 <b style="color: #C71585;">e</b>[lud](_lud_.md)e
 > vt. 逃避，规避，把...难倒
+
+<b style="color: #C71585;">e</b>[xist](_st_.md)
+> vi. 存在，生存，发生

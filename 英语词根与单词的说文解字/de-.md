@@ -46,3 +46,6 @@
 
 <b style="color: #C71585;">de</b>[lud](_lud_.md)e
 > vt. 迷惑，蛊惑
+
+<b style="color: #C71585;">de</b>[sist](_st_.md)
+> vi. 停止，控制，断念
