@@ -12,7 +12,7 @@
 > n. 不活动，懒散
 
 <b style="color: #20B2AA;">act</b>ion[able](-able.md)
-> n. 行动，活动，作用，诉讼
+> adj. 可予起诉的，可提起诉讼的
 
 <b style="color: #20B2AA;">act</b>[ive](-ive.md)
 > adj. 活跃的
