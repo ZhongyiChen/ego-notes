@@ -39,3 +39,8 @@ pseudo[log](_log_.md)<b style="color: #C71585;">y</b>
 > n. 谎话，说谎
 >
 > 另看词缀 [pseudo-](pseudo-.md)
+
+en[erg](_erg_.md)<b style="color: #C71585;">y</b>
+> n. 精力，活力，干劲，力量，能源
+>
+> 另看词缀 [en-](en-.md)

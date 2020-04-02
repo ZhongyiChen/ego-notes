@@ -58,3 +58,6 @@
 > adj. 不可实行的
 >
 > 另看词缀 [-ible](-able.md)
+
+<b style="color: #C71585;">in</b>[ert](_erg_.md)
+> adj. 无活动能力的，无行动力的，惰性的，不活泼的

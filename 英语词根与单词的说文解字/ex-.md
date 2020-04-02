@@ -74,3 +74,6 @@
 
 <b style="color: #C71585;">e</b>[xist](_st_.md)
 > vi. 存在，生存，发生
+
+<b style="color: #C71585;">ex</b>[ert](_erg_.md)
+> v. 运用，行使，施加；努力，竭力

@@ -119,3 +119,8 @@ iso[morph](_morph_.md)<b style="color: #C71585;">ic</b>
 
 [lud](_lud_.md)<b style="color: #C71585;">ic</b>
 > adj. 顽皮的，好开玩笑的
+
+syn[erg](_erg_.md)<b style="color: #C71585;">ic</b>
+> adj. 协同的，合作的
+>
+> 另看词缀 [syn-](sym-.md)

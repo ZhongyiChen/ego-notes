@@ -68,3 +68,6 @@ sub[sequ](_sequ_.md)<b style="color: #C71585;">ent</b>
 
 [magn](_magn_.md)i[fic](_fic_.md)<b style="color: #C71585;">ent</b>
 > adj. 华丽的，高尚的，宏伟的
+
+[urg](_erg_.md)<b style="color: #C71585;">ent</b>
+> adj. 紧急的，紧迫的，迫切的，催促的，急切的

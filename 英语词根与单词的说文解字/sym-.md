@@ -5,3 +5,8 @@
 
 <b style="color: #C71585;">syn</b>[onym](_onym_.md)
 > n. 同义词
+
+<b style="color: #C71585;">syn</b>[erg](_erg_.md)ic
+> adj. 协同的，合作的
+>
+> 另看词缀 [-ic](-ic.md)

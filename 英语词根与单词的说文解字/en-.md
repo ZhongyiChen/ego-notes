@@ -12,3 +12,8 @@
 
 <b style="color: #C71585;">em</b>[pathy](_pat_.2.md)
 > n. 共鸣，移情，同情
+
+<b style="color: #C71585;">en</b>[erg](_erg_.md)y
+> n. 精力，活力，干劲，力量，能源
+>
+> 另看词缀 [-y](-y.2.md)

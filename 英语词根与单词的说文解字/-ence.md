@@ -70,3 +70,6 @@ sub[sequ](_sequ_.md)<b style="color: #C71585;">ence</b>
 > n. 随后，后来，随后发生的事情
 >
 > 另看词缀 [sub-](sub-.md)
+
+[urg](_erg_.md)<b style="color: #C71585;">ency</b>
+> n. 紧迫，急迫，急事，紧要
