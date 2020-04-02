@@ -12,3 +12,6 @@
 > v. 遥测，用遥测发射器传送
 >
 > 这里的 tele 应看作词根
+
+[erg](_erg_.md)o<b style="color: #C71585;">meter</b>
+> n. 测力计；测功计

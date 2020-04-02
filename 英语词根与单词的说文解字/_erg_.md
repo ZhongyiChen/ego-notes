@@ -16,8 +16,15 @@
 [en](en-.md)<b style="color: #20B2AA;">erg</b>[y](-y.2.md)
 > n. 精力，活力，干劲，力量，能源
 
+[en](en-.md)<b style="color: #20B2AA;">erg</b>[etic](-ic.md)
+> adj. 精力充沛的，充满活力的，需要能量的，积极的
+
+
 [syn](sym-.md)<b style="color: #20B2AA;">erg</b>[ic](-ic.md)
 > adj. 协同的，合作的
+
+<b style="color: #20B2AA;">erg</b>o[meter](-meter.md)
+> n. 测力计；测功计
 
 <b style="color: #20B2AA;">org</b>[an](-an.2.md)
 > n. (人体或动植物的)器官；阴茎，阳物；管风琴
