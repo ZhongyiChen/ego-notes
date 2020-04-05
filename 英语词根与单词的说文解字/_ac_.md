@@ -1,9 +1,3 @@
-<style>
-  b {
-    color: #20B2AA;
-  }
-</style>
-
 # _ac_(_acr_/_acu_/_acut_/_acm_) [L] = sour; sharp; top
 
 *其中，_ac_ 的异体_acr_/_acu_/_acut_ 主要意思是 sharp，_ac_ 的另一个异体 _acm_ 则表示 top，而 _ac_ 本身则主要表达 sour 。*
