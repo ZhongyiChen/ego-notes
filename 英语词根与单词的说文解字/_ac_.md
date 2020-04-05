@@ -1,8 +1,4 @@
-<style>
-  b {
-    color: #20B2AA;
-  }
-</style>
+<link href="https://github.com/yrgoldteeth/darkdowncss/raw/master/darkdown.css" rel="stylesheet"></link>
 
 # _ac_(_acr_/_acu_/_acut_/_acm_) [L] = sour; sharp; top
 
