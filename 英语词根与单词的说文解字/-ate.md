@@ -94,3 +94,10 @@ ex[termin](_term_.md)<b style="color: #C71585;">ate</b>
 > vt. 扑灭，消灭，根绝
 >
 > 另看词缀 [ex-](ex-.md)
+
+af[fil](_fil_.md)i<b style="color: #C71585;">ate</b>
+> vt. 收养，使紧密联系，使附属，接纳
+>
+> vi. 发生联系，参加
+>
+> 另看词缀 [af-](ad-.md)

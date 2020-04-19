@@ -144,3 +144,8 @@ al[lus](_lud_.md)<b style="color: #C71585;">ion</b>
 > n. 提及，暗指
 >
 > 另看词缀 [al-](ad-.md)
+
+af[fil](_fil_.md)i<b style="color: #C71585;">ation</b>
+> n. (与政党、宗教等的)隶属关系，隶属，从属
+>
+> 另看词缀 [af-](ad-.md)

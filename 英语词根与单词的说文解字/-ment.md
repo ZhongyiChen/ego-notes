@@ -32,3 +32,6 @@ im[ple](_ple_.md)<b style="color: #C71585;">ment</b>
 > n. 工具，器具，(常指)简单的户外用具
 >
 > 另看词缀 [im-](in-.2.md)
+
+[fil](_fil_.md)a<b style="color: #C71585;">ment</b>
+> n. 细线，灯丝，单纤维

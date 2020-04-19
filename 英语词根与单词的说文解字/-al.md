@@ -85,3 +85,6 @@ per[enn](_ann_.md)i<b style="color: #C71585;">al</b>
 
 [art](_art_.md)i[fic](_fic_.md)i<b style="color: #C71585;">al</b>
 > adj. 人工的，人造的，假的；人为的，非自然的；虚假的，假装的
+
+[fil](_fil_.md)i<b style="color: #C71585;">al</b>
+> adj. 子女(对父母)的
