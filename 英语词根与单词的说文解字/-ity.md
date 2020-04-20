@@ -89,3 +89,8 @@ in[trep](_trem_.md)id<b style="color: #C71585;">ity</b>
 > n. 慷慨，宽大
 >
 > -osity = [-ous](-ous.md) + [-ity](-ity.md)
+
+dis[put](_put_.md)abil<b style="color: #C71585;">ity</b>
+> n. 有讨论余地，未确定，真假可疑
+>
+> 另看词缀 [dis-](dis-.md)

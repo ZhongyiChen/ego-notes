@@ -1,6 +1,6 @@
-# re-(red-) [L] = back/ again/ against
+# re-(red-/reh-) [L] = back/ again/ against
 
-*re- 作为原生前缀时，其意思是 back/against。当 re- 用作派生前缀时，则主要表示 again。原生前缀有一个异体 red- ，它只与以元音字母或或 h 开头的拉丁词根相结合。*
+*re- 作为原生前缀时，其意思是 back/against。当 re- 用作派生前缀时，则主要表示 again。原生前缀有一个异体 red-/reh- ，它只与以元音字母或或 h 开头的拉丁词根相结合。*
 
 *re- 区分原生与派生的方法：作为原生前缀时轻读 /ri/ ；作为派生前缀时重读 /ri:/ 。另外，re- 充当派生前缀用时，有时需带连字符。*
 
@@ -39,3 +39,8 @@
 > v. 抵抗，耐得住，抵制，反抗
 >
 > n. 防染材料
+
+<b style="color: #C71585;">re</b>[put](_put_.md)e
+> vt. 认为，以为
+>
+> n. 名望，名气，声望

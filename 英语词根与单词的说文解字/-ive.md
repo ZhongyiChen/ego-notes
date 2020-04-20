@@ -56,3 +56,11 @@ al[lus](_lud_.md)<b style="color: #C71585;">ive</b>
 > adj. 暗指的，引用典故的
 >
 > 另看词缀 [al-](ad-.md)
+
+dis[put](_put_.md)<b style="color: #C71585;">ative</b>
+> adj. 爱争辩的，有关争论的
+>
+> 另看词缀 [dis-](dis-.md)
+
+[put](_put_.md)<b style="color: #C71585;">ative</b>
+> adj. 推定的，被公认的

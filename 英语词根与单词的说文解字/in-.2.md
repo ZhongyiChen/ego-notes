@@ -60,3 +60,6 @@
 
 <b style="color: #C71585;">in</b>[sist](_st_.md)
 > v. 坚持，坚决主张，强调
+
+<b style="color: #C71585;">im</b>[put](_put_.md)e
+> vt. 归咎(于)，归罪(于)，归因(于)，使负责，嫁祸(于)

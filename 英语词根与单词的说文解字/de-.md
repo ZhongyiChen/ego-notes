@@ -49,3 +49,6 @@
 
 <b style="color: #C71585;">de</b>[sist](_st_.md)
 > vi. 停止，控制，断念
+
+<b style="color: #C71585;">de</b>[put](_put_.md)e
+> vt. 委任，指定代理人

@@ -35,3 +35,10 @@ invit<b style="color: #C71585;">er</b>
 > n. 邀请者
 >
 > 单词 invite —— vt. 邀请，招待；招致
+
+com[put](_put_.md)<b style="color: #C71585;">er</b>
+> n. 计算机，电脑
+>
+> 单词 compute —— vt. 计算，估算
+>
+> 另看词缀 [com-](com-.md)

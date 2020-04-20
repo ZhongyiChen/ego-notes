@@ -122,3 +122,6 @@
 
 <b style="color: #C71585;">con</b>[sist](_st_.md)
 > vi. 组成，存在于，一致
+
+<b style="color: #C71585;">com</b>[put](_put_.md)e
+> vt. 计算，估算

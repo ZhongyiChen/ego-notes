@@ -149,3 +149,13 @@ af[fil](_fil_.md)i<b style="color: #C71585;">ation</b>
 > n. (与政党、宗教等的)隶属关系，隶属，从属
 >
 > 另看词缀 [af-](ad-.md)
+
+dis[put](_put_.md)<b style="color: #C71585;">ation</b>
+> n. 争论，辩论，议论
+>
+> 另看词缀 [dis-](dis-.md)
+
+de[put](_put_.md)<b style="color: #C71585;">ation</b>
+> n. 代表团；代理人的任命
+>
+> 另看词缀 [de-](de-.md)

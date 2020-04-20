@@ -25,3 +25,8 @@ in[feas](_fic_.md)<b style="color: #C71585;">ible</b>
 > adj. 不可实行的
 >
 > 另看词缀 [in-](in-.1.md)
+
+dis[put](_put_.md)<b style="color: #C71585;">able</b>
+> adj. 有讨论余地的，可商榷的
+>
+> 另看词缀 [dis-](dis-.md)
