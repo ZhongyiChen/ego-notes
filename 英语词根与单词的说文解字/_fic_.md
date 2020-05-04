@@ -63,3 +63,6 @@
 
 <b style="color: #20B2AA;">feas</b>[ance](-ance.md)
 > n. 履行
+
+[de](de-.md)<b style="color: #20B2AA;">fic</b>[it](-it.md)
+> n. 赤字，逆差，亏损，不足额，缺款额；缺少

@@ -41,3 +41,6 @@
 
 [ob](ob-.md)<b style="color: #20B2AA;">sequ</b>i[ous](-ous.md)
 > adj. 谄媚的，巴结奉迎的
+
+[pur](pro-.md)<b style="color: #20B2AA;">su</b>[it](-it.md)
+> n. 追赶，追求；职业，工作

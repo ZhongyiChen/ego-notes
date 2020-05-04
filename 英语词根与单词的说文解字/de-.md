@@ -55,3 +55,8 @@
 
 <b style="color: #C71585;">de</b>[limit](_lim_.md)
 > v. 界定，限定
+
+<b style="color: #C71585;">de</b>[fic](_fic_.md)it
+> n. 赤字，逆差，亏损，不足额，缺款额；缺少
+>
+> 另看词缀 [-it](-it.md)
