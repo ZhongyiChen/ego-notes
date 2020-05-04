@@ -3,10 +3,10 @@
 [anti](anti-.1.md)<b style="color: #20B2AA;">cip</b>[ate](-ate.md)
 > vt. 预期，期望；占先，抢先；提前使用
 
-anti<b style="color: #20B2AA;">cip</b>at[ory](-ory.md)
+anti<b style="color: #20B2AA;">cip</b>[atory](-ory.md)
 > adj. 预期的，预先的
 
-anti<b style="color: #20B2AA;">cip</b>at[ion](-ion.md)
+anti<b style="color: #20B2AA;">cip</b>[ation](-ion.md)
 > n. 预期，预料，预料的事物
 
 [ex](ex-.md)<b style="color: #20B2AA;">cept</b>

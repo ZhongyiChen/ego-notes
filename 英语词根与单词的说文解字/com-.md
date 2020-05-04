@@ -125,3 +125,18 @@
 
 <b style="color: #C71585;">com</b>[put](_put_.md)e
 > vt. 计算，估算
+
+<b style="color: #C71585;">con</b>[spir](_spir_.md)e
+> vi. 共谋；协力
+>
+> vt. [法] 密谋策划
+
+<b style="color: #C71585;">con</b>[spir](_spir_.md)acy
+> n. 阴谋；共谋；阴谋集团
+>
+> 另看词缀 [-acy](-acy.md)
+
+<b style="color: #C71585;">con</b>[spir](_spir_.md)ator
+> n. 阴谋者；反叛者；同谋者
+>
+> 另看词缀 [-ator](-or.md)

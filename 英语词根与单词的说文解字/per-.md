@@ -25,3 +25,13 @@
 
 <b style="color: #C71585;">per</b>[sist](_st_.md)
 > vi. 坚持，固执，持续，坚称
+
+<b style="color: #C71585;">per</b>[spir](_spir_.md)e
+> vi. 流汗；分泌；渗出
+>
+> vt. 使流汗；分泌出
+
+<b style="color: #C71585;">per</b>[spir](_spir_.md)ation
+> n. 汗水；流汗；努力
+>
+> 另看词缀 [-ation](-ion.md)

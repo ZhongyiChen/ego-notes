@@ -4,3 +4,8 @@
 
 <b style="color: #C71585;">trans</b>[act](_act_.md)
 > vt. 办理，处理，做(一笔交易)
+
+<b style="color: #C71585;">trans</b>[spir](_spir_.md)e
+> vi. 发生；蒸发；泄露
+>
+> vt. 使蒸发；使排出

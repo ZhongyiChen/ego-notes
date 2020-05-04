@@ -8,10 +8,8 @@
 <b style="color: #20B2AA;">anim</b>[ate](-ate.md)
 > vt. 赋予...以生命，使有生命
   
-<b style="color: #20B2AA;">anim</b>at[or](-or.md)
+<b style="color: #20B2AA;">anim</b>[ator](-or.md)
 > n. 动画片绘制者，赋予生气者，赋予生气的因素
->
-> -ator = [-ate](-ate.md) + -or
 
 [dis](dis-.md)<b style="color: #20B2AA;">anim</b>ate
 > vt. 使灰心，使失去生命

@@ -44,3 +44,21 @@
 > vt. 认为，以为
 >
 > n. 名望，名气，声望
+
+<b style="color: #C71585;">re</b>[spir](_spir_.md)e
+> v. 呼吸
+
+<b style="color: #C71585;">re</b>[spir](_spir_.md)ation
+> n. 呼吸；呼吸作用
+>
+> 另看词缀 [-ation](-ion.md)
+
+<b style="color: #C71585;">re</b>[spir](_spir_.md)ator
+> n. 口罩；[医] 呼吸器；防毒面具
+>
+> 另看词缀 [-ator](-or.md)
+
+<b style="color: #C71585;">re</b>[spir](_spir_.md)atory
+> adj. 呼吸的
+>
+> 另看词缀 [-atory](-ory.md)

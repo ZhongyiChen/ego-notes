@@ -63,3 +63,11 @@
 
 <b style="color: #C71585;">im</b>[put](_put_.md)e
 > vt. 归咎(于)，归罪(于)，归因(于)，使负责，嫁祸(于)
+
+<b style="color: #C71585;">in</b>[spir](_spir_.md)e
+> vt. 激发；鼓舞；启示；产生；使生灵感
+
+<b style="color: #C71585;">in</b>[spir](_spir_.md)ation
+> n. 灵感；鼓舞；吸气；妙计
+>
+> 另看词缀 [-ation](-ion.md)

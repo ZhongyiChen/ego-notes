@@ -17,7 +17,7 @@
 <b style="color: #20B2AA;">avi</b>at[ion](-ion.md)
 > n. 航空，航空学
 
-<b style="color: #20B2AA;">avi</b>at[or](-or.md)
+<b style="color: #20B2AA;">avi</b>[ator](-or.md)
 > n. (男)飞行员
 
 <b style="color: #20B2AA;">avi</b>a[trix](-trix.md)

@@ -159,3 +159,28 @@ de[put](_put_.md)<b style="color: #C71585;">ation</b>
 > n. 代表团；代理人的任命
 >
 > 另看词缀 [de-](de-.md)
+
+e[xpir](_spir_.md)<b style="color: #C71585;">ation</b>
+> n. 呼气；终结；届期
+>
+> 另看词缀 [e](ex-.md)
+
+in[spir](_spir_.md)<b style="color: #C71585;">ation</b>
+> n. 灵感；鼓舞；吸气；妙计
+>
+> 另看词缀 [in-](in-.2.md)
+
+per[spir](_spir_.md)<b style="color: #C71585;">ation</b>
+> n. 汗水；流汗；努力
+>
+> 另看词缀 [per-](per-.md)
+
+re[spir](_spir_.md)<b style="color: #C71585;">ation</b>
+> n. 呼吸；呼吸作用
+>
+> 另看词缀 [re-](re-.md)
+
+su[spir](_spir_.md)<b style="color: #C71585;">ation</b>
+> n. 叹息，叹气
+>
+> 另看词缀 [su-](sub-.md)

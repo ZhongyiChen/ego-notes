@@ -82,3 +82,18 @@
 > v. 排除，清除，消除；(比赛中)淘汰，消灭，干掉(尤指敌人或对手)
 >
 > 另看词缀 [-ate](-ate.md)
+
+<b style="color: #C71585;">e</b>[xpir](_spir_.md)e
+> vi. 期满；终止；死亡；呼气
+>
+> vt. 呼出(空气)
+
+<b style="color: #C71585;">e</b>[xpir](_spir_.md)ation
+> n. 呼气；终结；届期
+>
+> 另看词缀 [-ation](-ion.md)
+
+<b style="color: #C71585;">e</b>[xpir](_spir_.md)y
+> n. 满期，逾期；呼气；终结
+>
+> 另看词缀 [-y](-y.2.md)

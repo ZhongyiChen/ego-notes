@@ -1,11 +1,9 @@
 # _am_(_amat_) [L] = to love
 
-<b style="color: #20B2AA;">amat</b>eur
+<b style="color: #20B2AA;">amat</b>[eur](-eur.md)
 > n. 业余爱好者
 >
 > adj. 业余的，爱好的
->
-> -eur ≈ [-er](-er.md)
 
 <b style="color: #20B2AA;">amat</b>eur[ish](-ish.md)
 > adj. 外行的，不熟练的

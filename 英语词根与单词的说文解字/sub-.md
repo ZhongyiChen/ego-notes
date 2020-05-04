@@ -57,3 +57,8 @@
 > adj. 下意识的，潜意识的
 >
 > 另看词缀 [-al](-al.md)
+
+<b style="color: #C71585;">su</b>[spir](_spir_.md)ation
+> n. 叹息，叹气
+>
+> 另看词缀 [-ation](-ion.md)

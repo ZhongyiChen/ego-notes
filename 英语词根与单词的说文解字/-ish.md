@@ -5,7 +5,7 @@
 [amat](_am_.md)eur<b style="color: #C71585;">ish</b>
 > adj. 外行的，不熟练的
 >
-> -eur ≈ [-er](-er.md)
+> 另看词缀 [-eur](-eur.md)
 
 [mon](_mon_.2.md)k<b style="color: #C71585;">ish</b>
 > adj. 修士(般)的，僧侣(般)的

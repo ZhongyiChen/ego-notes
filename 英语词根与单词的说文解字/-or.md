@@ -5,12 +5,10 @@
 [act](_act_.md)<b style="color: #C71585;">or</b>
 > n. 演员
 
-[anim](_anim_.md)at<b style="color: #C71585;">or</b>
+[anim](_anim_.md)<b style="color: #C71585;">ator</b>
 > n. 动画片绘制者，赋予生气者，赋予生气的因素
 >
 > 单词 animat(animate) —— vt. 赋予...以生命，使有生命
->
-> -ator = [-ate](-ate.md) + -or
 
 [arm](_arm_.md)<b style="color: #C71585;">or</b>
 > n. 装甲
@@ -18,12 +16,10 @@
 [audit](_aud_.md)<b style="color: #C71585;">or</b>
 > n. 审计员，稽核员
 
-[avi](_avi_.md)at<b style="color: #C71585;">or</b>
+[avi](_avi_.md)<b style="color: #C71585;">ator</b>
 > n. (男)飞行员
 >
 > 单词 aviat(aviate) —— vi. 飞行，驾驶飞机
->
-> -ator = [-ate](-ate.md) + -or
 
 [auth](_aug_.md)<b style="color: #C71585;">or</b>
 > n. 发起人，创始者，著作家，作家
@@ -44,3 +40,8 @@ bene[fect](_fic_.md)<b style="color: #C71585;">or</b>
 > n. 施主，捐款人，赞助人
 >
 > 另看词缀 [bene-](bene-.md)
+
+con[spir](_spir_.md)<b style="color: #C71585;">ator</b>
+> n. 阴谋者；反叛者；同谋者
+>
+> 另看词缀 [con-](com-.md)
