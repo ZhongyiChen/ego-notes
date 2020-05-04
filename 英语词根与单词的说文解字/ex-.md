@@ -77,3 +77,8 @@
 
 <b style="color: #C71585;">ex</b>[ert](_erg_.md)
 > v. 运用，行使，施加；努力，竭力
+
+<b style="color: #C71585;">e</b>[limin](_lim_.md)ate
+> v. 排除，清除，消除；(比赛中)淘汰，消灭，干掉(尤指敌人或对手)
+>
+> 另看词缀 [-ate](-ate.md)

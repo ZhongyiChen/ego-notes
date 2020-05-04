@@ -88,3 +88,8 @@ per[enn](_ann_.md)i<b style="color: #C71585;">al</b>
 
 [fil](_fil_.md)i<b style="color: #C71585;">al</b>
 > adj. 子女(对父母)的
+
+sub[limin](_lim_.md)<b style="color: #C71585;">al</b>
+> adj. 下意识的，潜意识的
+>
+> 另看词缀 [sub-](sub-.md)

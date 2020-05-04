@@ -6,6 +6,8 @@
 > vt. 旁听，审计，查账
 >
 > 本单词由词根 _audit_ 转化而成
+>
+> 也有人认为，audit = _aud_ + [-it](-it.md)
 
 <b style="color: #20B2AA;">audit</b>[or](-or.md)
 > n. 审计员，稽核员

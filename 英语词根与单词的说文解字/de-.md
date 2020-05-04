@@ -52,3 +52,6 @@
 
 <b style="color: #C71585;">de</b>[put](_put_.md)e
 > vt. 委任，指定代理人
+
+<b style="color: #C71585;">de</b>[limit](_lim_.md)
+> v. 界定，限定

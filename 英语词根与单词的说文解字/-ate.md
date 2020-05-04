@@ -101,3 +101,13 @@ af[fil](_fil_.md)i<b style="color: #C71585;">ate</b>
 > vi. 发生联系，参加
 >
 > 另看词缀 [af-](ad-.md)
+
+e[limin](_lim_.md)<b style="color: #C71585;">ate</b>
+> v. 排除，清除，消除；(比赛中)淘汰，消灭，干掉(尤指敌人或对手)
+>
+> 另看词缀 [e-](ex-.md)
+
+sub[lim](_lim_.md)<b style="color: #C71585;">ate</b>
+> v. 升华；提高；使高尚化(把性欲冲动等转移到工作、锻炼、艺术等社会可接受的活动中)
+>
+> 另看词缀 [sub-](sub-.md)
